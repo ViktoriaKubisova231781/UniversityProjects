@@ -100,7 +100,7 @@ Three tabs — DTP3, MCV2, PCV3 — each with a global coverage gauge, country-l
 
 ## Overview
 
-A 7-minute individual presentation analysing AI technology as depicted in the film *Minority Report*, connecting it to real-world applications and evaluating its broader implications.
+I researched and presented an analysis of AI technology as depicted in the film Minority Report, connecting it to a real-world business application and critically evaluating its feasibility and implications. The presentation was delivered live to lecturers and peers, drawing on both popular and peer-reviewed scholarly sources.
 
 ---
 
