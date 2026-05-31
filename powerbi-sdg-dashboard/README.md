@@ -36,6 +36,7 @@ Using 30 years of data from the UN SDG Databank (1990–2020), I developed a 3-p
 | 06 Presentation | Live demo to lecturers, peers, and client at the BUas Data Science Conference |
 
 **Pipeline:**
+
 `UN SDG Databank (.csv)` → `Power BI Data Model` → `DAX measures` → `Interactive Dashboard` → `Conference presentation`
 
 ---
@@ -43,23 +44,26 @@ Using 30 years of data from the UN SDG Databank (1990–2020), I developed a 3-p
 ## Dashboard Pages
 
 **1. Home**
+
 Overview KPIs showing absolute changes across the full 30-year period: −5.49% under-five mortality rate, +5% DTP3 coverage, +54% MCV2 coverage, +47% PCV3 coverage. Summary narrative and entry point to the full report.
 
 **2. Child Mortality**
+
 Interactive world map with a year slicer (1990–2020), regional bar chart, income-level trend lines, and descriptive statistics (mean, median, standard deviation). Highlights the persistent gap between Sub-Saharan Africa (179 deaths/1,000) and high-income regions (14 deaths/1,000).
 
 **3. Vaccines**
+
 Three tabs — DTP3, MCV2, PCV3 — each with a global coverage gauge, country-level choropleth map, regional treemap, and a correlation coefficient card showing the strength of the relationship between that vaccine and under-five mortality.
 
 ---
 
 ## Key Findings
 
-- Under-five deaths more than halved globally — from **12.5M in 1990** to **5.04M in 2020**
-- All three vaccines show strong negative correlations with under-five mortality: **DTP3 (r = −0.93)**, **MCV2 (r = −0.98)**, **PCV3 (r = −0.99)**
-- PCV3 shows the fastest adoption rate despite the lowest baseline worldwide coverage (32%)
-- Sub-Saharan Africa and Southern Asia carry the highest burden; North America and Europe the lowest
-- WHO estimates vaccination programmes prevent **2–3 million child deaths** every year
+- Under-five deaths more than halved globally — from **12.5M (1990)** to **5.04M (2020)**, a −5.49% drop in mortality rate
+- Strong negative correlations between vaccine coverage and mortality: **DTP3 (r = −0.93)**, **MCV2 (r = −0.98)**, **PCV3 (r = −0.99)**
+- Sub-Saharan Africa and Southern Asia carry the highest burden at **179** and **123** deaths per 1,000 live births respectively
+- WHO estimates vaccination prevents **2–3 million** child deaths annually
+- DTP3 coverage rose 5%, MCV2 54%, PCV3 47% — PCV3 shows the fastest adoption despite the lowest baseline coverage (32% worldwide)
 
 ---
 
