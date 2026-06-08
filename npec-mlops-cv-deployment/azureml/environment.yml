@@ -1,0 +1,30 @@
+name: iris
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - libglib  # helps with headless OpenCV if libGL fails
+  - libgomp  # fixes some TensorFlow CPU crashes
+  - pip:
+      - numpy
+      - pandas
+      - opencv-python-headless
+      - pillow
+      - tifffile
+      - matplotlib
+      - tqdm
+      - scikit-image
+      - scikit-learn
+      - patchify
+      - tensorflow-cpu==2.11.0  # Avoid GPU/CUDA build issues
+      - psutil
+      - gputil
+      - networkx
+      - skan
+      - azure-identity
+      - azure-ai-ml
+      - h5py
+      - azureml-inference-server-http
+ 
