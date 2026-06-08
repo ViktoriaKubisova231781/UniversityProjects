@@ -1,0 +1,348 @@
+{
+    "timestamp": "20250406_131249",
+    "iteration": 4,
+    "total_examples": 777,
+    "correct_examples": 173,
+    "error_examples": 604,
+    "emotion_accuracy": 0.4041184041184041,
+    "sub_emotion_accuracy": 0.7271557271557272,
+    "intensity_accuracy": 0.46332046332046334,
+    "overall_accuracy": 0.22265122265122264,
+    "performance_metrics": {
+        "overall": {
+            "total_examples": 777,
+            "correct_examples": 173,
+            "error_examples": 604,
+            "accuracy": 0.22265122265122264
+        },
+        "task_specific": {
+            "emotion": {
+                "accuracy": 0.4041184041184041,
+                "confidence": 0.5117812156677246
+            },
+            "sub_emotion": {
+                "accuracy": 0.7271557271557272,
+                "confidence": 0.4575215280056
+            },
+            "intensity": {
+                "accuracy": 0.46332046332046334,
+                "confidence": 0.5818755030632019
+            }
+        },
+        "confidence_analysis": {
+            "Low": {
+                "count": 155,
+                "accuracy": 0.025806451612903226
+            },
+            "Medium": {
+                "count": 155,
+                "accuracy": 0.012903225806451613
+            },
+            "Very Low": {
+                "count": 156,
+                "accuracy": 0.00641025641025641
+            },
+            "Very High": {
+                "count": 156,
+                "accuracy": 0.7115384615384616
+            },
+            "High": {
+                "count": 155,
+                "accuracy": 0.3548387096774194
+            }
+        }
+    },
+    "error_analysis": {
+        "error_counts": {
+            "emotion_only": 106,
+            "sub_emotion_only": 7,
+            "intensity_only": 112,
+            "emotion_and_sub": 74,
+            "emotion_and_intensity": 174,
+            "sub_and_intensity": 22,
+            "all_wrong": 109
+        },
+        "emotion_confusion": [
+            {
+                "true_emotion": "neutral",
+                "pred_emotion": "happiness",
+                "avg_confidence": 0.5523828268051147,
+                "count": 275
+            },
+            {
+                "true_emotion": "neutral",
+                "pred_emotion": "surprise",
+                "avg_confidence": 0.38879501819610596,
+                "count": 67
+            },
+            {
+                "true_emotion": "neutral",
+                "pred_emotion": "sadness",
+                "avg_confidence": 0.36284327507019043,
+                "count": 65
+            },
+            {
+                "true_emotion": "neutral",
+                "pred_emotion": "disgust",
+                "avg_confidence": 0.26197829842567444,
+                "count": 19
+            },
+            {
+                "true_emotion": "neutral",
+                "pred_emotion": "fear",
+                "avg_confidence": 0.2760476768016815,
+                "count": 15
+            },
+            {
+                "true_emotion": "surprise",
+                "pred_emotion": "happiness",
+                "avg_confidence": 0.5861800909042358,
+                "count": 6
+            },
+            {
+                "true_emotion": "anger",
+                "pred_emotion": "sadness",
+                "avg_confidence": 0.3497648239135742,
+                "count": 4
+            },
+            {
+                "true_emotion": "neutral",
+                "pred_emotion": "anger",
+                "avg_confidence": 0.29473915696144104,
+                "count": 4
+            },
+            {
+                "true_emotion": "happiness",
+                "pred_emotion": "neutral",
+                "avg_confidence": 0.28119757771492004,
+                "count": 2
+            },
+            {
+                "true_emotion": "anger",
+                "pred_emotion": "surprise",
+                "avg_confidence": 0.3080086410045624,
+                "count": 1
+            }
+        ],
+        "sub_emotion_confusion": [
+            {
+                "true_sub_emotion": "neutral",
+                "pred_sub_emotion": "admiration",
+                "avg_confidence": 0.1470828503370285,
+                "count": 70
+            },
+            {
+                "true_sub_emotion": "neutral",
+                "pred_sub_emotion": "curiosity",
+                "avg_confidence": 0.5575207471847534,
+                "count": 33
+            },
+            {
+                "true_sub_emotion": "neutral",
+                "pred_sub_emotion": "annoyance",
+                "avg_confidence": 0.11595647782087326,
+                "count": 28
+            },
+            {
+                "true_sub_emotion": "neutral",
+                "pred_sub_emotion": "disapproval",
+                "avg_confidence": 0.15732401609420776,
+                "count": 13
+            },
+            {
+                "true_sub_emotion": "neutral",
+                "pred_sub_emotion": "approval",
+                "avg_confidence": 0.11869127303361893,
+                "count": 13
+            },
+            {
+                "true_sub_emotion": "neutral",
+                "pred_sub_emotion": "confusion",
+                "avg_confidence": 0.2685537040233612,
+                "count": 11
+            },
+            {
+                "true_sub_emotion": "excitement",
+                "pred_sub_emotion": "neutral",
+                "avg_confidence": 0.20085300505161285,
+                "count": 6
+            },
+            {
+                "true_sub_emotion": "pride",
+                "pred_sub_emotion": "neutral",
+                "avg_confidence": 0.3533497452735901,
+                "count": 4
+            },
+            {
+                "true_sub_emotion": "surprise",
+                "pred_sub_emotion": "admiration",
+                "avg_confidence": 0.13641025125980377,
+                "count": 3
+            },
+            {
+                "true_sub_emotion": "nervousness",
+                "pred_sub_emotion": "annoyance",
+                "avg_confidence": 0.0913577601313591,
+                "count": 3
+            }
+        ],
+        "intensity_confusion": [
+            {
+                "true_intensity": "moderate",
+                "pred_intensity": "mild",
+                "avg_confidence": 0.4972057342529297,
+                "count": 144
+            },
+            {
+                "true_intensity": "mild",
+                "pred_intensity": "neutral",
+                "avg_confidence": 0.6596945524215698,
+                "count": 85
+            },
+            {
+                "true_intensity": "moderate",
+                "pred_intensity": "neutral",
+                "avg_confidence": 0.5979298949241638,
+                "count": 62
+            },
+            {
+                "true_intensity": "neutral",
+                "pred_intensity": "mild",
+                "avg_confidence": 0.4927055239677429,
+                "count": 42
+            },
+            {
+                "true_intensity": "mild",
+                "pred_intensity": "moderate",
+                "avg_confidence": 0.4454077184200287,
+                "count": 25
+            },
+            {
+                "true_intensity": "intense",
+                "pred_intensity": "mild",
+                "avg_confidence": 0.45423921942710876,
+                "count": 23
+            },
+            {
+                "true_intensity": "intense",
+                "pred_intensity": "moderate",
+                "avg_confidence": 0.47847285866737366,
+                "count": 14
+            },
+            {
+                "true_intensity": "intense",
+                "pred_intensity": "neutral",
+                "avg_confidence": 0.5106185078620911,
+                "count": 11
+            },
+            {
+                "true_intensity": "neutral",
+                "pred_intensity": "moderate",
+                "avg_confidence": 0.4541358947753906,
+                "count": 11
+            }
+        ],
+        "length_stats": [
+            {
+                "('all_correct', 'mean')": 0.245,
+                "('all_correct', 'count')": 669,
+                "('emotion_confidence', 'mean')": 0.5189999938011169,
+                "('sub_emotion_confidence', 'mean')": 0.48100000619888306,
+                "('intensity_confidence', 'mean')": 0.5979999899864197
+            },
+            {
+                "('all_correct', 'mean')": 0.085,
+                "('all_correct', 'count')": 94,
+                "('emotion_confidence', 'mean')": 0.4729999899864197,
+                "('sub_emotion_confidence', 'mean')": 0.3050000071525574,
+                "('intensity_confidence', 'mean')": 0.4819999933242798
+            },
+            {
+                "('all_correct', 'mean')": 0.071,
+                "('all_correct', 'count')": 14,
+                "('emotion_confidence', 'mean')": 0.42899999022483826,
+                "('sub_emotion_confidence', 'mean')": 0.34200000762939453,
+                "('intensity_confidence', 'mean')": 0.46299999952316284
+            },
+            {
+                "('all_correct', 'mean')": NaN,
+                "('all_correct', 'count')": 0,
+                "('emotion_confidence', 'mean')": NaN,
+                "('sub_emotion_confidence', 'mean')": NaN,
+                "('intensity_confidence', 'mean')": NaN
+            },
+            {
+                "('all_correct', 'mean')": NaN,
+                "('all_correct', 'count')": 0,
+                "('emotion_confidence', 'mean')": NaN,
+                "('sub_emotion_confidence', 'mean')": NaN,
+                "('intensity_confidence', 'mean')": NaN
+            },
+            {
+                "('all_correct', 'mean')": NaN,
+                "('all_correct', 'count')": 0,
+                "('emotion_confidence', 'mean')": NaN,
+                "('sub_emotion_confidence', 'mean')": NaN,
+                "('intensity_confidence', 'mean')": NaN
+            },
+            {
+                "('all_correct', 'mean')": NaN,
+                "('all_correct', 'count')": 0,
+                "('emotion_confidence', 'mean')": NaN,
+                "('sub_emotion_confidence', 'mean')": NaN,
+                "('intensity_confidence', 'mean')": NaN
+            },
+            {
+                "('all_correct', 'mean')": NaN,
+                "('all_correct', 'count')": 0,
+                "('emotion_confidence', 'mean')": NaN,
+                "('sub_emotion_confidence', 'mean')": NaN,
+                "('intensity_confidence', 'mean')": NaN
+            },
+            {
+                "('all_correct', 'mean')": NaN,
+                "('all_correct', 'count')": 0,
+                "('emotion_confidence', 'mean')": NaN,
+                "('sub_emotion_confidence', 'mean')": NaN,
+                "('intensity_confidence', 'mean')": NaN
+            }
+        ],
+        "emotion_stats": [
+            {
+                "emotion_correct": 0.0,
+                "emotion_confidence": 0.3409999907016754,
+                "count": 5
+            },
+            {
+                "emotion_correct": 0.667,
+                "emotion_confidence": 0.3370000123977661,
+                "count": 6
+            },
+            {
+                "emotion_correct": 0.912,
+                "emotion_confidence": 0.5649999976158142,
+                "count": 34
+            },
+            {
+                "emotion_correct": 0.384,
+                "emotion_confidence": 0.5120000243186951,
+                "count": 722
+            },
+            {
+                "emotion_correct": 0.5,
+                "emotion_confidence": 0.23600000143051147,
+                "count": 2
+            },
+            {
+                "emotion_correct": 0.125,
+                "emotion_confidence": 0.5490000247955322,
+                "count": 8
+            }
+        ],
+        "confidence_correlation": {
+            "emotion": 0.3057796093203278,
+            "sub_emotion": 0.5075095456860163,
+            "intensity": 0.29321699945280905
+        }
+    }
+}

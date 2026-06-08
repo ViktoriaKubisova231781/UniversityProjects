@@ -1,0 +1,64 @@
+{
+    "summary": {
+        "total_errors": 602,
+        "overall_accuracy": 0.22522522522522523,
+        "timestamp": "20250401_220956"
+    },
+    "recommendations": [
+        {
+            "type": "problematic_emotion",
+            "emotion": "neutral",
+            "error_count": 427,
+            "error_rate": 0.7093023255813954,
+            "suggestions": [
+                "Add more training examples",
+                "Use data augmentation",
+                "Consider class weights in loss function"
+            ]
+        },
+        {
+            "type": "emotion_confusion",
+            "true_emotion": "neutral",
+            "predicted_emotion": "happiness",
+            "count": 218,
+            "avg_confidence": 0.5250882506370544,
+            "suggestions": [
+                "Feature engineering to distinguish emotions",
+                "Add contrastive learning",
+                "Review training data quality"
+            ]
+        },
+        {
+            "type": "text_length",
+            "correlation": NaN,
+            "suggestions": [
+                "Data augmentation for short examples",
+                "Consider hierarchical attention",
+                "Review tokenization strategy"
+            ]
+        },
+        {
+            "type": "confidence",
+            "correlations": {
+                "emotion": 0.24646249666506082,
+                "sub_emotion": 0.5850410342139946,
+                "intensity": 0.3098191571680888
+            },
+            "suggestions": [
+                "Calibrate model confidence",
+                "Implement confidence thresholding",
+                "Review loss function"
+            ]
+        },
+        {
+            "type": "hierarchical",
+            "sub_emotion_accuracy": 0.6113256113256114,
+            "intensity_accuracy": 0.44787644787644787,
+            "suggestions": [
+                "Implement hierarchical classification",
+                "Add task-specific attention layers",
+                "Review label hierarchy"
+            ]
+        }
+    ]
+}

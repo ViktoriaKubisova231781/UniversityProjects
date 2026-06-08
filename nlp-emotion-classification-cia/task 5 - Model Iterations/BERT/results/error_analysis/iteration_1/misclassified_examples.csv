@@ -1,0 +1,647 @@
+text,true_emotion,pred_emotion,true_sub_emotion,pred_sub_emotion,true_intensity,pred_intensity,emotion_confidence,sub_emotion_confidence,intensity_confidence,text_length,emotion_correct,sub_emotion_correct,intensity_correct,all_correct,confidence_level
+Hang on to your seats cuz Asia's Next Top Model is back with a vengeance,happiness,anger,excitement,annoyance,intense,moderate,0.33400995,0.12789991,0.48040152,72,False,False,False,False,Very Low
+Thousands of model hopefuls from all over Asia jumped at the chance to pursue their supermodel dream,neutral,happiness,neutral,optimism,moderate,mild,0.717556,0.111087024,0.41422024,100,False,False,False,False,Low
+But only the standout modeling talent were chosen as our final 14,neutral,happiness,neutral,admiration,moderate,mild,0.689032,0.21396875,0.502262,65,False,False,False,False,High
+Prepare for an adventure of a lifetime,happiness,happiness,excitement,approval,intense,mild,0.72873986,0.11538278,0.47551766,38,True,False,False,False,Medium
+All I can say girls for this fierce fifth season is be prepared to expect the unexpected,happiness,happiness,excitement,admiration,moderate,mild,0.7386624,0.09095094,0.43877783,88,True,False,False,False,Medium
+With twists and turns at every corner. This is a crazy competition,neutral,anger,neutral,annoyance,intense,moderate,0.46005616,0.14231104,0.42446283,66,False,False,False,False,Very Low
+"If you don't really want to be here, it's short. They will stop at nothing to come out on top",neutral,anger,neutral,neutral,intense,moderate,0.28253424,0.23846222,0.42003614,93,False,True,False,False,Very Low
+I don't want to trust anyone with some of the top names in the industry,neutral,sadness,neutral,neutral,moderate,moderate,0.37551746,0.22222905,0.37965852,71,False,True,True,False,Very Low
+If you're rich bitch show me and me Cindy Bishop back for a cycle like no other,neutral,anger,neutral,neutral,moderate,moderate,0.3253845,0.22852626,0.47450146,79,False,True,True,False,Very Low
+We'll kill it on the international stage. The challenges are tough,neutral,happiness,neutral,optimism,intense,moderate,0.58850485,0.15790018,0.4062992,66,False,False,False,False,Low
+"Okay, I got my work cut out for me now",neutral,fear,neutral,neutral,moderate,moderate,0.32802466,0.27628288,0.4108316,38,False,True,True,False,Very Low
+Let the games begin,neutral,happiness,neutral,neutral,intense,neutral,0.41043964,0.4861499,0.49367967,19,False,True,False,False,High
+Would say that I'm a model with brains. I am putting my degree in whole,neutral,happiness,neutral,neutral,moderate,mild,0.44802296,0.1786754,0.50839007,71,False,True,False,False,Low
+It's now or never and by one last shot before I jump back into the world of academia,neutral,fear,neutral,neutral,intense,moderate,0.42843258,0.23286907,0.39643022,84,False,True,False,False,Very Low
+"Indonesia, of course, obviously, we're twins",neutral,happiness,neutral,neutral,neutral,neutral,0.3350166,0.4905239,0.4311493,44,False,True,True,False,Medium
+Double power,neutral,neutral,neutral,neutral,moderate,neutral,0.3340355,0.48695573,0.47200778,12,True,True,False,False,Medium
+"It was my idea to come to Asia's Next Top Model, sorry, Veronica",happiness,sadness,pride,neutral,mild,moderate,0.600257,0.14111231,0.3573053,64,False,False,False,False,Low
+"Even if you're my twin sister, but I'm gonna win this there's two of us and only one winner",neutral,happiness,neutral,neutral,intense,moderate,0.57776815,0.13699596,0.3949432,91,False,True,False,False,Low
+Really love fashion. So I started my fashion blog. I have,neutral,happiness,neutral,gratitude,moderate,mild,0.6797633,0.11597093,0.40328652,57,False,False,False,False,Low
+"70,000 followers in Instagram right now. They keep on commenting on my photos at the Jenica",neutral,anger,neutral,neutral,moderate,moderate,0.3003449,0.37422037,0.35425517,91,False,True,True,False,Very Low
+Please join Asia's Next Top Model for me. I'm gonna do everything to go all the way to the top,happiness,happiness,optimism,neutral,intense,neutral,0.41024435,0.33348796,0.38826534,94,True,False,False,False,Low
+"Name is Clara. I'm 21 years old. I'm from Indonesia. I don't have brain. I mean, I'm not smart",neutral,sadness,neutral,neutral,neutral,neutral,0.38343894,0.38831538,0.38163581,94,False,True,True,False,Low
+"When I go to primary school, I get bullied",neutral,anger,neutral,annoyance,moderate,moderate,0.443508,0.17647102,0.43341988,42,False,False,True,False,Very Low
+I want to prove my primary school who bullied me the ugly ducking now become a pretty pretty face,neutral,fear,neutral,annoyance,intense,moderate,0.27975675,0.08256805,0.5494266,97,False,False,False,False,Very Low
+I'm Cara G McElroy and I am your model mentor for this season of Asia's Next Top Model,happiness,happiness,pride,neutral,moderate,mild,0.68527675,0.13594413,0.465343,86,True,False,False,False,Medium
+I've worked for many global ad campaigns and worked alongside,neutral,happiness,neutral,neutral,moderate,mild,0.5409812,0.17695601,0.40771663,61,False,True,False,False,Low
+Supermodels like Cindy Crawford and Naomi Campbell,neutral,happiness,neutral,neutral,moderate,mild,0.40690613,0.33554906,0.46095026,50,False,True,False,False,Low
+Wow Cara is so beautiful. She's tall and she's so poised,surprise,happiness,admiration,admiration,intense,mild,0.7485221,0.27140462,0.5140203,56,False,True,False,False,High
+the gorgeous,neutral,happiness,neutral,admiration,moderate,mild,0.74374104,0.23834246,0.57209516,12,False,False,False,False,High
+your superstar,neutral,happiness,neutral,admiration,moderate,mild,0.7165228,0.20134921,0.52120435,14,False,False,False,False,High
+confidant the ever so graceful,neutral,happiness,neutral,admiration,moderate,mild,0.7658241,0.118996665,0.50250006,30,False,False,False,False,High
+"It's Cindy she just walked across I was like, whoa",neutral,surprise,neutral,neutral,intense,mild,0.26237923,0.35059154,0.33201978,50,False,True,False,False,Very Low
+"She is gorgeous. I'm like, yeah, she's from Thailand. She's happy. Hi",neutral,happiness,neutral,gratitude,moderate,mild,0.7440071,0.11335258,0.44347546,69,False,False,False,False,Medium
+So good to be back and I'm so excited to get to know each and every one of you beautiful ladies this season,neutral,happiness,neutral,gratitude,intense,mild,0.74701434,0.14053628,0.4526263,107,False,False,False,False,Medium
+It's all about celebrating,neutral,happiness,neutral,neutral,moderate,mild,0.40640652,0.25198025,0.50285625,26,False,True,False,False,Low
+Individuality and bringing out the best of the uniqueness that we see in all of you. We're not just looking for a pretty face,neutral,happiness,neutral,neutral,moderate,mild,0.5026569,0.12583329,0.4468173,125,False,True,False,False,Low
+We are looking for a supermodel a rising star someone who can set herself apart from the rest and stand out from the crowd,neutral,happiness,neutral,neutral,moderate,mild,0.7092135,0.12518914,0.46677393,122,False,True,False,False,Medium
+"99% I want to be the Asian list of model, but 100% I want to win",neutral,happiness,neutral,optimism,intense,mild,0.6940412,0.13198817,0.47104856,64,False,False,False,False,Medium
+14 beautiful women from all across Asia,neutral,happiness,neutral,admiration,neutral,mild,0.7815868,0.1978778,0.5135214,39,False,False,False,False,High
+"So on that note ladies, welcome to Asia's next top model",happiness,happiness,excitement,neutral,moderate,neutral,0.48975053,0.39753592,0.41648364,56,True,False,False,False,Medium
+"So Pia walks out with six male models, which are like half naked",neutral,neutral,neutral,neutral,mild,neutral,0.20477024,0.5398166,0.40274206,64,True,True,False,False,Low
+beautiful abs and I'm thinking,neutral,happiness,neutral,admiration,mild,mild,0.73438627,0.14593056,0.55103105,30,False,False,True,False,High
+Damn,neutral,disgust,neutral,neutral,mild,moderate,0.27805313,0.2241656,0.36437348,4,False,True,False,False,Very Low
+So ladies meet your first special guest of the competition,neutral,happiness,neutral,neutral,moderate,mild,0.65351075,0.19765812,0.47356242,58,False,True,False,False,Medium
+Can't believe that Pia Wurtzbach is actually here,neutral,surprise,neutral,confusion,moderate,mild,0.6546206,0.5264614,0.58410007,49,False,False,False,False,High
+They will be your co-stars for your first,neutral,happiness,neutral,neutral,neutral,mild,0.59291965,0.21930784,0.41740885,41,False,True,False,False,Low
+Gorilla lingerie catwalk challenge and that's happening right now,neutral,happiness,neutral,neutral,moderate,moderate,0.32342348,0.21599428,0.37956724,65,False,True,True,False,Very Low
+That's right girls you will be dressed in sexy lingerie as we set up a gorilla catwalk on this very bridge,neutral,happiness,neutral,neutral,moderate,moderate,0.38054055,0.15577884,0.40010256,106,False,True,True,False,Very Low
+Usually I did better in runways and catwalk than Valerie,neutral,happiness,neutral,admiration,mild,mild,0.61836964,0.14854217,0.4487167,56,False,False,True,False,Low
+So I'm confident in this challenge that I will win over her,neutral,happiness,neutral,optimism,moderate,mild,0.71793866,0.10155771,0.4098924,59,False,False,False,False,Low
+Everyone looks really good in lingerie,neutral,happiness,neutral,admiration,mild,mild,0.78026545,0.21315274,0.5386972,38,False,False,True,False,High
+So intimidating,neutral,fear,neutral,neutral,moderate,moderate,0.22998941,0.31532523,0.33380595,15,False,True,True,False,Very Low
+"Hello girls, are you excited for your first challenge?",neutral,happiness,neutral,curiosity,mild,mild,0.7627546,0.16273904,0.5847944,54,False,False,True,False,High
+When you walk out you have to choose one of the male models to be your co-star as you make your way down the runway,neutral,happiness,neutral,neutral,mild,moderate,0.35164368,0.26727444,0.362588,115,False,True,False,False,Very Low
+"Then when you hit the end of the runway, you'll get another surprise",surprise,fear,surprise,neutral,moderate,moderate,0.3051251,0.14464346,0.43593553,68,False,False,True,False,Very Low
+So make sure you put your best foot forward because this is the first time,neutral,happiness,neutral,optimism,moderate,mild,0.5903259,0.19785461,0.3962153,74,False,False,False,False,Low
+"All right, I am scared I've never actually been on the runway so it's very nerve-wracking for me",fear,fear,nervousness,fear,intense,moderate,0.65218395,0.10043207,0.4042962,96,True,False,False,False,Low
+If you feel a confident from the inside that's when you show it from the outside and that's what I want to do,neutral,happiness,neutral,curiosity,moderate,mild,0.64631,0.17753552,0.5454959,109,False,False,False,False,Medium
+"Not bad, got a little bit of sass and attitude there our sweet Maureen",neutral,sadness,neutral,disapproval,mild,moderate,0.3587884,0.21506183,0.4039753,70,False,False,False,False,Very Low
+Pleasantly surprised Valerie,surprise,surprise,surprise,neutral,mild,mild,0.3800996,0.13792302,0.38964757,28,True,False,True,False,Very Low
+Really want to make an impression that me and Valerie we're different in our own ways,neutral,happiness,neutral,curiosity,moderate,mild,0.6609654,0.12907393,0.47373787,85,False,False,False,False,Medium
+This is her twin right Veronica,neutral,neutral,neutral,neutral,mild,neutral,0.44978562,0.7214154,0.7113407,31,True,True,False,False,Very High
+I like her walk a lot,neutral,happiness,neutral,gratitude,mild,mild,0.70229137,0.13769205,0.42458418,21,False,False,True,False,Medium
+And her knees gorgeous,neutral,happiness,neutral,admiration,mild,mild,0.55884683,0.2588713,0.44033954,22,False,False,True,False,Medium
+"My plan was to be myself, be really laid-back and show who I am.",neutral,fear,neutral,neutral,mild,moderate,0.33083904,0.2888551,0.3492896,64,False,True,False,False,Very Low
+"Oh shit, what should I do, what should I do?",neutral,surprise,neutral,confusion,intense,mild,0.536854,0.17545836,0.39597744,44,False,False,False,False,Low
+I just feel like I need to update this.,neutral,happiness,neutral,neutral,mild,mild,0.37291527,0.25710663,0.3879962,39,False,True,True,False,Very Low
+"When I look around all of the girls, the girl who has the best body is me.",neutral,happiness,neutral,admiration,moderate,mild,0.7312888,0.15641923,0.43012685,74,False,False,False,False,Medium
+"Oh, she's fierce.",happiness,fear,admiration,surprise,mild,moderate,0.32256073,0.0915255,0.42320642,17,False,False,False,False,Very Low
+It's a bit too literal again with the car.,neutral,disgust,neutral,neutral,mild,neutral,0.40329796,0.35710433,0.41761878,42,False,True,False,False,Low
+I'm gonna rock it out like Heidi Klum does on the runway.,neutral,anger,neutral,neutral,moderate,moderate,0.3024042,0.34091473,0.3746562,57,False,True,True,False,Very Low
+"All the girls got good walks this year, I'm excited to see that.",neutral,happiness,neutral,gratitude,moderate,mild,0.73873734,0.14123522,0.45119807,64,False,False,False,False,Medium
+Sweet.,neutral,happiness,neutral,admiration,mild,mild,0.7348704,0.17441824,0.5283825,6,False,False,True,False,High
+You must be fierce to be fierce.,happiness,fear,admiration,neutral,mild,moderate,0.4489015,0.16533543,0.44449607,32,False,False,False,False,Very Low
+Fierce.,happiness,neutral,admiration,neutral,mild,neutral,0.55385345,0.8210072,0.7859159,7,False,False,False,False,Very High
+I love the action part.,neutral,happiness,neutral,gratitude,mild,mild,0.6224887,0.13751002,0.3862923,23,False,False,True,False,Low
+"Oh my god, it's painful as hell.",neutral,fear,neutral,neutral,intense,moderate,0.39001632,0.10950553,0.35972682,32,False,True,False,False,Very Low
+"Since I've done many runways, I feel like I have this down.",neutral,surprise,neutral,neutral,moderate,moderate,0.22219114,0.3089035,0.3427476,59,False,True,True,False,Very Low
+Oh shit.,neutral,surprise,neutral,surprise,moderate,mild,0.45717406,0.18890001,0.3182753,8,False,False,False,False,Very Low
+Well that was anywhere.,neutral,neutral,neutral,neutral,mild,neutral,0.504329,0.7841471,0.7632552,23,True,True,False,False,Very High
+I was literally not expecting that.,neutral,sadness,neutral,neutral,moderate,neutral,0.5136236,0.258804,0.34793732,35,False,True,False,False,Low
+"Not sure about her walk though, she's a bit clumpy.",neutral,disgust,neutral,neutral,mild,moderate,0.28899527,0.23286742,0.3957537,51,False,True,False,False,Very Low
+But I like the attitude.,neutral,happiness,neutral,joy,mild,mild,0.7425811,0.10863235,0.49415812,24,False,False,True,False,Medium
+"We have Clara. Oh my god, she's gorgeous.",neutral,happiness,neutral,admiration,moderate,mild,0.6978531,0.13952787,0.46097708,41,False,False,False,False,Medium
+I don't really like her walk.,neutral,disgust,neutral,disapproval,mild,moderate,0.4368292,0.25971144,0.32187712,29,False,False,False,False,Very Low
+Beautiful face.,neutral,happiness,neutral,admiration,mild,mild,0.77507555,0.15076411,0.4987292,15,False,False,True,False,High
+Beautiful face.,neutral,happiness,neutral,admiration,moderate,mild,0.77507555,0.15076411,0.4987292,15,False,False,False,False,High
+"Oh, I like that little wink at the end.",neutral,happiness,neutral,approval,mild,mild,0.6838419,0.1268381,0.4985174,39,False,False,True,False,Medium
+I'm not sure about her walk.,neutral,surprise,neutral,confusion,mild,mild,0.6544347,0.5064927,0.48581824,28,False,False,True,False,High
+She just looks like she's walking with her boyfriend down the catwalk.,neutral,anger,neutral,neutral,mild,moderate,0.33656007,0.194493,0.44556966,70,False,True,False,False,Very Low
+I don't have so much time to change the clothes.,neutral,sadness,neutral,neutral,mild,neutral,0.3697349,0.41016775,0.42452142,48,False,True,False,False,Low
+I wear the high heels and run like crazy.,neutral,anger,neutral,annoyance,moderate,moderate,0.38463074,0.12612154,0.4247313,41,False,False,True,False,Very Low
+Because my heart has a little bit like sick.,neutral,sadness,neutral,neutral,mild,moderate,0.58978677,0.130495,0.3290379,44,False,True,False,False,Very Low
+I cannot breathe when I run.,neutral,fear,neutral,neutral,moderate,neutral,0.3099112,0.3081186,0.40235728,28,False,True,False,False,Very Low
+Oh my god.,neutral,surprise,neutral,surprise,mild,mild,0.51897264,0.18206644,0.32394812,10,False,False,True,False,Very Low
+I cannot see anything. I don't get enough oxygen.,neutral,sadness,neutral,neutral,intense,neutral,0.38320434,0.36834598,0.3907944,49,False,True,False,False,Low
+It's my time to find my second world.,neutral,surprise,neutral,neutral,moderate,moderate,0.34218764,0.2123466,0.33734462,37,False,True,True,False,Very Low
+"If I don't finish this challenge, I will have to go home.",neutral,fear,neutral,neutral,moderate,moderate,0.3484862,0.29781058,0.4022196,57,False,True,True,False,Very Low
+I need to do my challenge.,neutral,happiness,neutral,neutral,moderate,mild,0.508376,0.21152595,0.36418834,26,False,True,False,False,Low
+I just try my best.,neutral,happiness,neutral,optimism,moderate,mild,0.59210455,0.18342495,0.38324845,19,False,False,False,False,Low
+"Oh, damn girl.",neutral,anger,neutral,annoyance,moderate,moderate,0.39843008,0.1334182,0.38582385,14,False,False,True,False,Very Low
+She's burning up that catwalk.,neutral,anger,neutral,neutral,moderate,moderate,0.3357892,0.16163506,0.45146996,30,False,True,True,False,Very Low
+She's got a lot of attitude.,neutral,happiness,neutral,admiration,mild,mild,0.67388856,0.28751728,0.5619537,28,False,False,True,False,High
+No way.,neutral,disgust,neutral,neutral,mild,neutral,0.2799,0.6365942,0.68601465,7,False,True,False,False,High
+This is a challenge.,neutral,happiness,neutral,neutral,neutral,mild,0.62853295,0.18827967,0.45428318,20,False,True,False,False,Medium
+This competition means a lot to me,neutral,happiness,neutral,admiration,moderate,mild,0.7528473,0.14339669,0.4539291,34,False,False,False,False,Medium
+because I wanted to do something to get out of my comfort zone,neutral,happiness,neutral,optimism,moderate,moderate,0.3408139,0.17851004,0.44800717,62,False,False,True,False,Very Low
+and prove myself and everyone that I can do it.,neutral,happiness,neutral,optimism,moderate,moderate,0.48666406,0.22062488,0.3596905,47,False,False,True,False,Low
+"Usually, Veronika always do the runway better than me.",neutral,happiness,neutral,admiration,neutral,mild,0.703841,0.123547584,0.40959364,54,False,False,False,False,Low
+"But this time, I will prove to Veronika that I can do better.",neutral,happiness,neutral,optimism,moderate,mild,0.6385092,0.15937443,0.40133673,61,False,False,False,False,Low
+"Three years ago, I already tried to be here and I never give up.",neutral,sadness,neutral,neutral,intense,moderate,0.44371453,0.23600319,0.37319627,64,False,True,False,False,Very Low
+"So, this is just a dream come true.",neutral,sadness,neutral,neutral,intense,mild,0.30805886,0.09206734,0.35716522,35,False,True,False,False,Very Low
+"To win this, I'm just going to focus on myself.",neutral,happiness,neutral,neutral,moderate,moderate,0.37606207,0.22570723,0.36060596,47,False,True,True,False,Very Low
+I'm going to give my best.,neutral,happiness,neutral,optimism,intense,mild,0.67116684,0.122769326,0.3999808,26,False,False,False,False,Low
+My strategy for this competition is to be consistent in what I want,neutral,happiness,neutral,optimism,moderate,mild,0.67525786,0.16034527,0.4508943,67,False,False,False,False,Medium
+I'm not just an ordinary girl.,neutral,sadness,neutral,neutral,moderate,neutral,0.3032693,0.46024516,0.523432,30,False,True,False,False,Medium
+I think I have the potential and the body to be a great top model.,happiness,happiness,pride,admiration,moderate,mild,0.77396286,0.11597168,0.46959212,66,True,False,False,False,Medium
+"Making it to this competition, it's a huge deal.",neutral,happiness,neutral,admiration,intense,mild,0.72824305,0.1643458,0.4766051,48,False,False,False,False,Medium
+I wish to make it to the finish line and emerge first.,neutral,happiness,neutral,neutral,intense,neutral,0.41014647,0.3451492,0.39256352,54,False,True,False,False,Low
+I think I deserve to be in Asia's Next Top Model,happiness,sadness,pride,neutral,moderate,moderate,0.38691798,0.23815517,0.43730402,48,False,False,True,False,Very Low
+because I'm a very hardworking girl.,neutral,happiness,neutral,neutral,moderate,moderate,0.31699058,0.18541825,0.38521782,36,False,True,True,False,Very Low
+I'm just going to put everything I have and nail it.,neutral,neutral,neutral,neutral,intense,neutral,0.3708986,0.6257744,0.621106,52,True,True,False,False,High
+and prove to myself that I can make it in the modeling industry.,neutral,happiness,neutral,optimism,intense,mild,0.66869384,0.144338,0.43613395,64,False,False,False,False,Medium
+Great job!,neutral,happiness,neutral,approval,mild,mild,0.7539801,0.14272344,0.50703835,10,False,False,True,False,High
+I see the judges at the end of the runway.,neutral,neutral,neutral,neutral,moderate,neutral,0.4671742,0.6601966,0.6213715,42,True,True,False,False,High
+I don't know what's going on in their head.,neutral,surprise,neutral,confusion,moderate,mild,0.7522727,0.5442521,0.6020552,43,False,False,False,False,Very High
+I feel like I own it and I have a chance to win the challenge.,neutral,happiness,neutral,optimism,moderate,mild,0.68813205,0.115231425,0.41043013,62,False,False,False,False,Low
+People talk about my heart is sick.,neutral,sadness,neutral,neutral,moderate,moderate,0.5247549,0.1378723,0.36542124,35,False,True,True,False,Very Low
+I come here to win this competition.,neutral,happiness,neutral,approval,intense,mild,0.70824355,0.13148448,0.44203612,36,False,False,False,False,Medium
+I think we got a good group of girls this year.,neutral,happiness,neutral,admiration,mild,mild,0.7720303,0.13944122,0.48861325,47,False,False,True,False,High
+Yes! Yes!,neutral,neutral,neutral,neutral,intense,neutral,0.2795163,0.30576482,0.45301214,9,True,True,False,False,Very Low
+"I see the pool and I'm like, I am in Bali.",neutral,neutral,neutral,neutral,intense,neutral,0.5801888,0.7792004,0.7545276,42,True,True,False,False,Very High
+"It's so surreal being in this competition, staying in a house like this.",neutral,anger,neutral,neutral,moderate,moderate,0.21003984,0.13318576,0.47239366,72,False,True,True,False,Very Low
+"Goodies! Oh my God, yes. Freestyle.",neutral,surprise,neutral,excitement,intense,mild,0.36534852,0.15837215,0.36227468,35,False,False,False,False,Very Low
+We have all strong personalities.,neutral,happiness,neutral,admiration,neutral,mild,0.74821573,0.15170634,0.4945385,33,False,False,False,False,High
+"So guys, this is the rowdy Malaysian.",neutral,neutral,neutral,neutral,mild,neutral,0.3217779,0.41572538,0.44895744,37,True,True,False,False,Low
+I'm the nice one.,neutral,happiness,neutral,approval,mild,mild,0.7199586,0.15925588,0.5299404,17,False,False,True,False,High
+It's good because we can talk to each other but it's bad at the same time,neutral,sadness,neutral,neutral,moderate,moderate,0.26847875,0.23917733,0.39681655,73,False,True,True,False,Very Low
+I knew it!,neutral,surprise,neutral,neutral,moderate,mild,0.7012174,0.2168417,0.41726276,10,False,True,False,False,Medium
+"If I talk to Veronica and then maybe after five minutes I talk to Valeria,",neutral,fear,neutral,neutral,mild,neutral,0.30187735,0.6068126,0.5426445,74,False,True,False,False,High
+I cannot tell the difference.,neutral,surprise,neutral,confusion,mild,mild,0.5957426,0.39899743,0.4445819,29,False,False,True,False,High
+It's just so awkward.,neutral,neutral,neutral,neutral,moderate,neutral,0.25337943,0.4553197,0.40821546,21,True,True,False,False,Low
+"I mean, sorry, first day.",neutral,sadness,neutral,neutral,mild,neutral,0.51276696,0.25655124,0.36660725,25,False,True,False,False,Low
+"Living with the other six girls, I don't know what to feel.",neutral,surprise,neutral,confusion,moderate,mild,0.7123129,0.5242039,0.5866196,59,False,False,False,False,Very High
+I just hope that there's less drama.,neutral,sadness,neutral,neutral,neutral,moderate,0.2655766,0.29902413,0.35904762,36,False,True,False,False,Very Low
+"I just hope for the best, I think.",neutral,happiness,neutral,optimism,neutral,mild,0.5173246,0.21364655,0.36511272,34,False,False,False,False,Low
+Welcome to your new model house.,neutral,happiness,neutral,neutral,neutral,neutral,0.41127527,0.5217908,0.55251175,32,False,True,True,False,High
+"As you're settling in, I must first explain to you how your scores work.",neutral,happiness,neutral,neutral,neutral,mild,0.40377888,0.3393198,0.48390582,72,False,True,False,False,Low
+"In order to keep you on your toes throughout this competition,",neutral,happiness,neutral,neutral,mild,neutral,0.45080858,0.29444078,0.33831492,62,False,True,False,False,Low
+each of you will earn a score after every challenge and photo shoot.,neutral,happiness,neutral,neutral,neutral,mild,0.6301338,0.17963871,0.4016,68,False,True,False,False,Low
+"And at the end of every week, these two scores will be combined",neutral,happiness,neutral,neutral,neutral,neutral,0.4827528,0.32121965,0.36767846,63,False,True,True,False,Low
+in order to determine who stays and who goes.,neutral,happiness,neutral,neutral,neutral,mild,0.41702175,0.42689344,0.4755209,45,False,True,False,False,Medium
+"As you've all successfully completed your first challenge,",neutral,happiness,neutral,admiration,mild,mild,0.6805309,0.13160741,0.45950216,58,False,False,True,False,Medium
+"Good luck, girls.",neutral,happiness,neutral,approval,neutral,mild,0.7007512,0.1585068,0.46538037,17,False,False,False,False,Medium
+"Good luck, girls.",neutral,happiness,neutral,approval,mild,mild,0.7007512,0.1585068,0.46538037,17,False,False,True,False,Medium
+Yes!,neutral,neutral,neutral,neutral,intense,neutral,0.33509636,0.36527762,0.51963687,4,True,True,False,False,Low
+Yes!,neutral,neutral,neutral,neutral,mild,neutral,0.33509636,0.36527762,0.51963687,4,True,True,False,False,Low
+Yes!,neutral,neutral,neutral,neutral,moderate,neutral,0.33509636,0.36527762,0.51963687,4,True,True,False,False,Low
+It's me!,neutral,surprise,neutral,neutral,intense,neutral,0.4011554,0.19655947,0.32114896,8,False,True,False,False,Very Low
+I'm so happy.,neutral,happiness,neutral,gratitude,intense,mild,0.68505144,0.16597627,0.4013678,13,False,False,False,False,Medium
+Good!,neutral,happiness,neutral,approval,mild,mild,0.7034438,0.16210277,0.493927,5,False,False,True,False,Medium
+And I got second!,neutral,neutral,neutral,neutral,moderate,neutral,0.25312307,0.3449245,0.41489807,17,True,True,False,False,Very Low
+What? Second?,neutral,surprise,neutral,confusion,moderate,mild,0.755685,0.49926955,0.6558168,13,False,False,False,False,Very High
+"Valerie, what are you doing to me, man?",neutral,surprise,neutral,confusion,moderate,mild,0.53709,0.40852714,0.53865147,39,False,False,False,False,High
+You're taking my place.,neutral,neutral,neutral,neutral,moderate,neutral,0.3049512,0.60733306,0.60033643,23,True,True,False,False,High
+It's supposed to be me.,neutral,surprise,neutral,neutral,moderate,mild,0.6403295,0.29711872,0.43624425,23,False,True,False,False,Medium
+"Oh, my God!",neutral,surprise,neutral,surprise,intense,moderate,0.4562339,0.17469743,0.29207844,11,False,False,False,False,Very Low
+I'm in top five.,neutral,neutral,neutral,neutral,intense,neutral,0.4842284,0.63770485,0.65225315,16,True,True,False,False,Very High
+"And I'm pretty happy that all the Filipino girls are, you know, in the top five.",neutral,happiness,neutral,gratitude,moderate,mild,0.7374633,0.13833451,0.43016663,80,False,False,False,False,Medium
+"So, watch out for the Philippines!",neutral,happiness,neutral,neutral,moderate,mild,0.585657,0.24666665,0.43500695,34,False,True,False,False,Medium
+Whose name is on there?,neutral,surprise,neutral,curiosity,mild,mild,0.48886406,0.55798316,0.7912449,23,False,False,True,False,Very High
+Mine?,neutral,surprise,neutral,confusion,mild,mild,0.74366444,0.48433676,0.6892989,5,False,False,True,False,Very High
+"Namita, you're not in.",neutral,disgust,neutral,neutral,moderate,neutral,0.35020763,0.47574285,0.5644759,22,False,True,False,False,High
+"Oh, my God.",neutral,surprise,neutral,surprise,mild,mild,0.48274168,0.17600796,0.2951506,11,False,False,True,False,Very Low
+"F**k me, man.",neutral,anger,neutral,annoyance,intense,moderate,0.4266242,0.14629228,0.3656914,13,False,False,False,False,Very Low
+I didn't perform as how I wanted to or like how I would have.,neutral,sadness,neutral,neutral,moderate,moderate,0.5443873,0.2056071,0.34879223,61,False,True,True,False,Low
+"Okay, bye, girls.",neutral,neutral,neutral,neutral,mild,neutral,0.6280619,0.8314876,0.82241964,17,True,True,False,False,Very High
+"Don't say that, no.",neutral,disgust,neutral,neutral,neutral,neutral,0.40016708,0.40993863,0.46132457,19,False,True,True,False,Medium
+Cindy Miao! Cindy Miao!,neutral,surprise,neutral,excitement,moderate,moderate,0.29781523,0.20101179,0.2930184,23,False,False,True,False,Very Low
+Check your old self and step up with confidence.,neutral,happiness,neutral,neutral,moderate,mild,0.43590558,0.32873783,0.35159305,48,False,True,False,False,Low
+Because you just might run into the new you.,neutral,fear,neutral,neutral,moderate,moderate,0.32531875,0.36676306,0.41779158,44,False,True,True,False,Low
+"Love, Cindy Miao.",neutral,happiness,neutral,approval,mild,mild,0.7171084,0.10102756,0.4367909,17,False,False,True,False,Medium
+Is that makeover?,neutral,happiness,neutral,curiosity,mild,mild,0.4618898,0.65642774,0.8017882,17,False,False,True,False,Very High
+Who is that?,neutral,surprise,neutral,curiosity,mild,mild,0.5998846,0.43001404,0.77262783,12,False,False,True,False,Very High
+It's either a makeover or a snake.,neutral,surprise,neutral,neutral,mild,neutral,0.3478255,0.49975467,0.47242245,34,False,True,False,False,Medium
+It's something to do with a snake.,neutral,surprise,neutral,neutral,mild,mild,0.29100987,0.36843315,0.42044637,34,False,True,True,False,Low
+"We're all speculating, like, what could it be?",neutral,surprise,neutral,curiosity,moderate,mild,0.5560502,0.37654644,0.65777534,46,False,False,False,False,High
+But as a theme is expect the unexpected.,surprise,happiness,curiosity,curiosity,mild,mild,0.5450143,0.25066072,0.5647677,40,False,True,True,False,Medium
+"I have no idea, but I'm excited to find out.",neutral,fear,neutral,curiosity,moderate,mild,0.28498605,0.20402673,0.44758025,44,False,False,False,False,Very Low
+"Welcome, ladies, to your first photo challenge.",neutral,happiness,neutral,neutral,moderate,neutral,0.49795845,0.37940383,0.42777184,47,False,True,False,False,Medium
+It's all about high fashion and high energy.,neutral,happiness,neutral,admiration,moderate,mild,0.7323543,0.2680057,0.55991656,44,False,False,False,False,High
+And the theme is runaway model.,neutral,happiness,neutral,neutral,neutral,mild,0.6007169,0.17938635,0.45408478,31,False,True,False,False,Low
+"Yesterday, the challenge was a long marathon run,",neutral,happiness,neutral,neutral,neutral,mild,0.5458957,0.24813472,0.3647521,49,False,True,False,False,Low
+"Okay, let's do this.",neutral,neutral,neutral,neutral,moderate,neutral,0.46734995,0.6484932,0.6812646,20,True,True,False,False,Very High
+"So, ladies, it's time to meet your photographer",neutral,happiness,neutral,neutral,neutral,neutral,0.37415236,0.47685468,0.47635695,47,False,True,True,False,Medium
+"Congratulations, ladies,",neutral,happiness,neutral,gratitude,moderate,mild,0.7355671,0.16651064,0.45825496,24,False,False,False,False,Medium
+on making it to your first photo challenge.,neutral,happiness,neutral,neutral,moderate,neutral,0.49187297,0.34152356,0.3903068,43,False,True,False,False,Low
+Success on this competition,neutral,happiness,neutral,approval,moderate,mild,0.7673704,0.13469894,0.49344444,27,False,False,False,False,High
+almost guarantees you success in the industry.,neutral,happiness,neutral,admiration,moderate,mild,0.7234294,0.14714353,0.45956403,46,False,False,False,False,Medium
+So we want you excited.,neutral,happiness,neutral,gratitude,moderate,mild,0.7110571,0.13912287,0.4556573,23,False,False,False,False,Medium
+We want you motivated.,neutral,happiness,neutral,neutral,mild,mild,0.7374228,0.090429984,0.5016839,22,False,True,True,False,Medium
+"Are you ready, girls?",neutral,happiness,neutral,curiosity,mild,mild,0.70045596,0.55896574,0.6920226,21,False,False,True,False,Very High
+Good luck!,neutral,happiness,neutral,approval,mild,mild,0.6780516,0.15265405,0.4644155,10,False,False,True,False,Medium
+It's my very first photo challenge,neutral,happiness,neutral,neutral,moderate,mild,0.5432453,0.16772504,0.42726123,34,False,True,False,False,Low
+in Asia's Next Top Model.,happiness,happiness,pride,neutral,moderate,mild,0.525885,0.35385576,0.4105126,25,True,False,False,False,Medium
+"I've been waiting for this, like, for my whole life,",neutral,fear,neutral,neutral,intense,neutral,0.3594508,0.5269051,0.5251402,52,False,True,False,False,High
+"so I'm very excited, but I was so scared also.",fear,fear,nervousness,excitement,intense,moderate,0.4189541,0.09051335,0.38950428,46,True,False,False,False,Very Low
+"Being in the bottom three for the runaway task,",neutral,neutral,neutral,neutral,moderate,neutral,0.35520837,0.5951596,0.5678853,47,True,True,False,False,High
+"it was a lot of pressure,",neutral,fear,neutral,neutral,moderate,moderate,0.40526223,0.21018021,0.42245165,25,False,True,True,False,Very Low
+"because I know I had to, like,",neutral,neutral,neutral,neutral,moderate,neutral,0.340994,0.5016818,0.47089076,30,True,True,False,False,Medium
+step up my game this time.,neutral,fear,neutral,neutral,moderate,neutral,0.34081677,0.35910654,0.39098746,26,False,True,False,False,Low
+"I kind of was just like,",neutral,happiness,neutral,neutral,mild,mild,0.346626,0.24444078,0.5039981,24,False,True,True,False,Low
+gotta give it your all.,neutral,neutral,neutral,neutral,moderate,neutral,0.3143489,0.50547755,0.49009418,23,True,True,False,False,Medium
+"But at the same time, I was just like,",neutral,neutral,neutral,neutral,mild,neutral,0.34217232,0.5860561,0.5897434,38,True,True,False,False,High
+"shit, you know?",neutral,anger,neutral,annoyance,moderate,moderate,0.4010475,0.1659737,0.36071682,15,False,False,True,False,Very Low
+"Hey, girls!",neutral,surprise,neutral,neutral,neutral,neutral,0.24225049,0.27066445,0.42766532,11,False,True,True,False,Very Low
+"Probably some of you are excited,",neutral,happiness,neutral,gratitude,mild,mild,0.7492818,0.10147469,0.50942034,33,False,False,True,False,Medium
+a little bit nervous.,fear,fear,nervousness,neutral,mild,moderate,0.57625407,0.14673269,0.38275394,21,True,False,False,False,Low
+I know what it feels like,neutral,surprise,neutral,confusion,mild,mild,0.68032044,0.2612911,0.5489033,25,False,False,True,False,High
+"to be in a competition kind of situation,",neutral,happiness,neutral,neutral,mild,mild,0.65644634,0.16666228,0.43728244,41,False,True,True,False,Medium
+I'm not gonna be physically with you,neutral,sadness,neutral,neutral,neutral,neutral,0.3445101,0.42785215,0.44707692,36,False,True,True,False,Low
+"throughout the whole competition,",neutral,happiness,neutral,neutral,neutral,neutral,0.37618142,0.45517606,0.5007228,33,False,True,True,False,Medium
+but Cindy did invite me to share some tips with you,neutral,happiness,neutral,neutral,mild,mild,0.42232996,0.30218917,0.3944177,51,False,True,True,False,Low
+so that I can see how you girls are doing.,neutral,happiness,neutral,curiosity,moderate,mild,0.41849428,0.26123682,0.6013457,42,False,False,False,False,Medium
+This is basically one of your first challenges.,neutral,happiness,neutral,neutral,neutral,mild,0.6328246,0.14854108,0.48963192,47,False,True,False,False,Medium
+You have a long way to go.,neutral,neutral,neutral,neutral,mild,neutral,0.3460405,0.6457874,0.5830275,26,True,True,False,False,High
+"And also, people want somebody easy to work with,",neutral,happiness,neutral,admiration,neutral,mild,0.71365196,0.1293655,0.5126666,49,False,False,False,False,Medium
+somebody who's professional.,neutral,neutral,neutral,neutral,neutral,mild,0.2647732,0.44185936,0.43979114,28,True,True,False,False,Low
+It's very important.,neutral,happiness,neutral,admiration,neutral,mild,0.5916956,0.1789943,0.51883686,20,False,False,False,False,Medium
+I'll be seeing you again.,neutral,happiness,neutral,neutral,neutral,neutral,0.34125277,0.3855242,0.37031803,25,False,True,True,False,Low
+Group hug!,neutral,surprise,neutral,neutral,moderate,neutral,0.43739572,0.23724598,0.39057642,10,False,True,False,False,Low
+"I'm the first girl,",neutral,neutral,neutral,neutral,moderate,neutral,0.39519432,0.5466205,0.5444796,19,True,True,False,False,High
+so I won't be able to see,neutral,sadness,neutral,neutral,mild,moderate,0.4885783,0.28307813,0.3173714,25,False,True,False,False,Low
+what to do and what not to do.,neutral,disgust,neutral,neutral,moderate,mild,0.3361946,0.26662508,0.4091188,30,False,True,False,False,Very Low
+"I'm kind of, like, nervous.",fear,fear,nervousness,neutral,mild,moderate,0.64934933,0.095239565,0.37232524,27,True,False,False,False,Low
+"You're really missing the beat of the camera,",neutral,sadness,neutral,neutral,moderate,moderate,0.47695348,0.1616459,0.44009775,45,False,True,True,False,Low
+"so just really try to get it on the 1, 2, 3.",neutral,happiness,neutral,neutral,neutral,neutral,0.33084637,0.38413227,0.39042145,44,False,True,True,False,Low
+It's not even a pretty dancer.,neutral,disgust,neutral,neutral,moderate,neutral,0.3831851,0.33157516,0.42951885,30,False,True,False,False,Low
+It's very awkward-looking at the moment.,neutral,fear,neutral,neutral,moderate,moderate,0.37157664,0.27228996,0.3759558,40,False,True,True,False,Very Low
+I was kind of panicking,neutral,fear,neutral,annoyance,moderate,moderate,0.31514287,0.12517118,0.39800137,23,False,False,True,False,Very Low
+"because the judges were trying to help me out,",neutral,happiness,neutral,optimism,mild,moderate,0.5400032,0.14346446,0.44130743,46,False,False,False,False,Low
+"like, do this, do that.",neutral,neutral,neutral,neutral,mild,neutral,0.3980004,0.5710454,0.57508236,23,True,True,False,False,High
+You're coming down.,neutral,anger,neutral,neutral,neutral,neutral,0.25328982,0.55306625,0.48514813,19,False,True,True,False,Medium
+I'm kind of thinking I should have done better.,neutral,happiness,neutral,optimism,neutral,mild,0.6370459,0.11201141,0.42623922,47,False,False,False,False,Low
+Clara!,neutral,surprise,neutral,neutral,mild,neutral,0.34746465,0.22692761,0.34930408,6,False,True,False,False,Very Low
+"Let's go. 1, 2, 3, go!",neutral,neutral,neutral,neutral,moderate,neutral,0.24372347,0.37058413,0.47078964,22,True,True,False,False,Low
+Yeah!,neutral,surprise,neutral,neutral,mild,mild,0.3574003,0.19944991,0.34771764,5,False,True,True,False,Very Low
+"1, 2, 3, go.",neutral,neutral,neutral,neutral,mild,neutral,0.512522,0.7656376,0.76508784,12,True,True,False,False,Very High
+Good.,neutral,happiness,neutral,approval,mild,mild,0.63932437,0.17902997,0.48719662,5,False,False,True,False,Medium
+"1, 2, 3, let's go.",neutral,neutral,neutral,neutral,mild,neutral,0.44931242,0.66859025,0.6849005,18,True,True,False,False,Very High
+"Yeah, she's got two.",neutral,neutral,neutral,neutral,mild,neutral,0.5144681,0.70530385,0.6805745,20,True,True,False,False,Very High
+Today's photoshoot's so perfect for me.,neutral,happiness,neutral,admiration,moderate,mild,0.7616827,0.18699239,0.5012581,39,False,False,False,False,High
+"Yes, yes, I want some more, just like that.",neutral,happiness,neutral,neutral,moderate,mild,0.5538569,0.27710897,0.42641726,43,False,True,False,False,Medium
+"Okay, 1, 2, 3, go.",neutral,neutral,neutral,neutral,mild,neutral,0.51661414,0.7463431,0.75929135,18,True,True,False,False,Very High
+"I like photographers who talk like,",neutral,happiness,neutral,admiration,mild,mild,0.7565107,0.12338072,0.508502,35,False,False,True,False,High
+"nice, good, amazing, so I can improve, right?",happiness,happiness,optimism,joy,mild,mild,0.7833008,0.10954157,0.49439678,45,True,False,True,False,Medium
+Beautiful.,neutral,happiness,neutral,admiration,mild,mild,0.77972174,0.14669517,0.52815795,10,False,False,True,False,High
+Beautiful.,neutral,happiness,neutral,admiration,moderate,mild,0.77972174,0.14669517,0.52815795,10,False,False,False,False,High
+Go.,neutral,neutral,neutral,neutral,mild,neutral,0.6578438,0.8411779,0.840729,3,True,True,False,False,Very High
+Clara's doing really good.,neutral,happiness,neutral,admiration,moderate,mild,0.75785184,0.18809375,0.5180987,26,False,False,False,False,High
+I'm very impressed.,neutral,happiness,neutral,gratitude,moderate,mild,0.75632924,0.11583655,0.5008653,19,False,False,False,False,Medium
+"Okay, okay, I got my work cut out for me now.",neutral,fear,neutral,neutral,neutral,moderate,0.3637722,0.27592152,0.40935957,45,False,True,False,False,Very Low
+Well done!,neutral,happiness,neutral,approval,moderate,mild,0.6610019,0.15790616,0.4366104,10,False,False,False,False,Medium
+"Okay, less like a bird, all right?",neutral,surprise,neutral,neutral,mild,mild,0.27901784,0.41963217,0.54379827,34,False,True,True,False,Low
+"More like a woman, okay?",neutral,happiness,neutral,neutral,neutral,mild,0.438714,0.1652581,0.63443685,24,False,True,False,False,Low
+"When they started doing the shoot,",neutral,anger,neutral,neutral,neutral,mild,0.30462104,0.35365906,0.32973418,34,False,True,False,False,Very Low
+"I was like, what was I gonna do,",neutral,surprise,neutral,neutral,moderate,mild,0.46686906,0.34847847,0.45114985,32,False,True,False,False,Medium
+"what was I gonna do,",neutral,surprise,neutral,neutral,moderate,mild,0.56982064,0.38850105,0.46835065,20,False,True,False,False,High
+and then it just went blank.,neutral,surprise,neutral,neutral,intense,neutral,0.25105134,0.5259398,0.5313925,28,False,True,False,False,Medium
+Think about what your hands are doing and your face.,neutral,surprise,neutral,curiosity,neutral,mild,0.48059556,0.45959416,0.6661631,52,False,False,False,False,High
+"1, 2, 3, and go.",neutral,neutral,neutral,neutral,mild,neutral,0.5701784,0.81073314,0.79085404,16,True,True,False,False,Very High
+Very well.,neutral,happiness,neutral,approval,mild,mild,0.69216543,0.1682496,0.48851046,10,False,False,True,False,Medium
+Much better.,neutral,happiness,neutral,neutral,moderate,mild,0.6363807,0.17301022,0.45426336,12,False,True,False,False,Medium
+"So much better, good job.",neutral,happiness,neutral,approval,moderate,mild,0.7483045,0.16609734,0.52153945,25,False,False,False,False,High
+My shoot is like a rollercoaster ride.,neutral,anger,neutral,neutral,moderate,moderate,0.25186995,0.20775749,0.3567065,38,False,True,True,False,Very Low
+"It's like Miss Karen, Miss Indira,",neutral,happiness,neutral,admiration,neutral,mild,0.53495413,0.22850025,0.53571177,34,False,False,False,False,Medium
+"they like it, they don't.",neutral,disgust,neutral,neutral,mild,neutral,0.44107231,0.30043533,0.38851383,25,False,True,False,False,Low
+My goal now is just to survive.,neutral,happiness,neutral,optimism,moderate,moderate,0.45685202,0.1651394,0.3692214,31,False,False,True,False,Very Low
+I'm gonna try to like climb on top,neutral,happiness,neutral,neutral,mild,neutral,0.34298772,0.3902189,0.40772137,34,False,True,False,False,Low
+when there's just fewer girls.,neutral,disgust,neutral,neutral,neutral,neutral,0.25086933,0.5937074,0.61063933,30,False,True,True,False,High
+Lady!,neutral,surprise,neutral,excitement,mild,neutral,0.3542861,0.17820369,0.298918,5,False,False,False,False,Very Low
+I like the energy.,neutral,happiness,neutral,gratitude,moderate,mild,0.7373143,0.1319989,0.46051547,18,False,False,False,False,Medium
+I don't think I can win Best Photographer.,neutral,sadness,neutral,neutral,mild,moderate,0.39338797,0.26361817,0.3353762,42,False,True,False,False,Very Low
+"I see Heidi do it really, really well.",neutral,happiness,neutral,approval,moderate,mild,0.6793143,0.14514859,0.48359054,38,False,False,False,False,Medium
+That one's beautiful.,neutral,happiness,neutral,admiration,moderate,mild,0.7680451,0.19638999,0.53389937,21,False,False,False,False,High
+"She's like a stallion,",neutral,happiness,neutral,admiration,moderate,mild,0.48882034,0.26951146,0.51718843,22,False,False,False,False,Medium
+like a galloping stallion in this one.,neutral,anger,neutral,neutral,moderate,neutral,0.22533235,0.33643034,0.33640394,38,False,True,False,False,Very Low
+That's amazing.,happiness,happiness,admiration,admiration,moderate,mild,0.74451715,0.17010526,0.5126012,15,True,True,False,False,High
+I'm getting great feedback at this moment.,neutral,happiness,neutral,approval,moderate,mild,0.7601505,0.11572875,0.50554085,42,False,False,False,False,Medium
+Whoa!,neutral,surprise,neutral,neutral,moderate,mild,0.5231289,0.18000174,0.361344,5,False,True,False,False,Very Low
+"If I trip and it's a good picture,",neutral,happiness,neutral,approval,mild,mild,0.7354097,0.14064093,0.50614786,34,False,False,True,False,Medium
+it will be worth it.,neutral,happiness,neutral,admiration,mild,mild,0.718315,0.1365808,0.4761017,20,False,False,True,False,Medium
+"Nice, I like that!",neutral,happiness,neutral,approval,moderate,mild,0.7509912,0.12639618,0.49480155,18,False,False,False,False,Medium
+Thank you so much.,neutral,happiness,neutral,gratitude,moderate,mild,0.629793,0.21208762,0.40076715,18,False,False,False,False,Low
+I'm so happy I'm before Veronica.,neutral,happiness,neutral,gratitude,moderate,mild,0.6980276,0.15214568,0.39277503,33,False,False,False,False,Medium
+"Photo shoot is more my thing,",neutral,surprise,neutral,neutral,moderate,mild,0.27295035,0.29773763,0.35073555,29,False,True,False,False,Very Low
+so she can learn from me.,neutral,happiness,neutral,neutral,mild,mild,0.5437744,0.1864578,0.47661084,25,False,True,True,False,Low
+"Okay, ready, 1, 2, 3, go.",neutral,neutral,neutral,neutral,mild,neutral,0.5395555,0.74498165,0.7728971,25,True,True,False,False,Very High
+"Very chin down right now, okay?",neutral,surprise,neutral,neutral,neutral,mild,0.29454187,0.42150572,0.39793822,31,False,True,False,False,Low
+It's making you look very angry.,anger,anger,disapproval,annoyance,mild,moderate,0.39257914,0.13642277,0.40844703,32,True,False,False,False,Very Low
+Try to relax your jaw a little bit.,neutral,happiness,neutral,neutral,mild,mild,0.49996698,0.28264612,0.3943161,35,False,True,True,False,Low
+"Use your arms, change the angle of the face.",neutral,neutral,neutral,neutral,mild,neutral,0.24383019,0.5241633,0.47104105,44,True,True,False,False,Low
+"When I remember to put my chin up,",neutral,fear,neutral,neutral,mild,mild,0.25031278,0.32986718,0.34308797,34,False,True,True,False,Very Low
+I forget about the mouth.,neutral,sadness,neutral,neutral,mild,moderate,0.52271914,0.21817593,0.33895662,25,False,True,False,False,Low
+And then when I remember the chin and the mouth,neutral,surprise,neutral,confusion,mild,mild,0.65325385,0.27064726,0.4969721,47,False,False,True,False,High
+I comment about the eyes.,neutral,surprise,neutral,neutral,mild,neutral,0.3011634,0.6102876,0.4800981,25,False,True,False,False,High
+There's always something.,neutral,surprise,neutral,neutral,mild,neutral,0.3677585,0.646436,0.5959622,25,False,True,False,False,High
+"Yes, there you go.",neutral,neutral,neutral,neutral,moderate,neutral,0.60253805,0.7718631,0.77617586,18,True,True,False,False,Very High
+Chicken!,neutral,surprise,neutral,neutral,mild,neutral,0.38780287,0.18024212,0.30981866,8,False,True,False,False,Very Low
+I'm feeling very hot in the jacket.,neutral,fear,neutral,neutral,neutral,moderate,0.4240854,0.20578122,0.41479042,35,False,True,False,False,Very Low
+It's really constricting my movements as well.,neutral,anger,neutral,neutral,mild,moderate,0.26576063,0.15074301,0.4035878,46,False,True,False,False,Very Low
+"Where are you going, honey?",neutral,surprise,neutral,curiosity,mild,mild,0.50785625,0.498592,0.7378991,27,False,False,True,False,High
+Tame the hands.,neutral,neutral,neutral,neutral,mild,neutral,0.4954913,0.80121255,0.7417786,15,True,True,False,False,Very High
+You can have a trail behind you,neutral,happiness,neutral,neutral,neutral,neutral,0.30259126,0.51022243,0.45523885,31,False,True,True,False,Medium
+but don't bring it up too much.,neutral,disgust,neutral,neutral,neutral,moderate,0.3610119,0.2886493,0.34384102,31,False,True,False,False,Very Low
+You look like Lady Gaga.,neutral,happiness,neutral,admiration,mild,mild,0.61306804,0.28225335,0.59911406,24,False,False,True,False,High
+"Yes, yes, yes, good.",neutral,happiness,neutral,approval,moderate,mild,0.66399044,0.1621914,0.48658475,20,False,False,False,False,Medium
+Let's try jumping in.,neutral,happiness,neutral,neutral,mild,neutral,0.3511594,0.38944328,0.38228172,21,False,True,False,False,Low
+"Good, a little bit less.",neutral,happiness,neutral,neutral,mild,mild,0.37898293,0.2667768,0.38239643,24,False,True,True,False,Very Low
+Almost.,neutral,neutral,neutral,neutral,mild,neutral,0.622365,0.8480351,0.84264123,7,True,True,False,False,Very High
+"Namita, let's see what you got, girlfriend.",neutral,happiness,neutral,curiosity,neutral,mild,0.44265324,0.41682285,0.5905027,43,False,False,False,False,High
+"Everyone set such a high bar,",neutral,happiness,neutral,neutral,moderate,neutral,0.3391835,0.47400805,0.44190818,29,False,True,False,False,Medium
+"and I was just like, oh, shit, crap, okay.",neutral,anger,neutral,annoyance,mild,moderate,0.4155432,0.1467012,0.38516122,42,False,False,False,False,Very Low
+Watch that duck face.,neutral,happiness,neutral,neutral,mild,neutral,0.2240511,0.37718236,0.4019117,21,False,True,False,False,Very Low
+"Careful of your eyes, you're looking really bug-eyed.",neutral,happiness,neutral,admiration,neutral,mild,0.67095304,0.171099,0.4840252,53,False,False,False,False,Medium
+So my confidence kind of just went...,neutral,happiness,neutral,admiration,moderate,mild,0.5972556,0.12265055,0.44036916,37,False,False,False,False,Low
+"Keep doing what you're doing with your body,",neutral,happiness,neutral,neutral,mild,moderate,0.26173374,0.3954937,0.33346617,44,False,True,False,False,Very Low
+but your head needs to come forward.,neutral,fear,neutral,neutral,neutral,neutral,0.2869162,0.38807797,0.4382018,36,False,True,True,False,Low
+"Yes, better, better, much better.",neutral,happiness,neutral,neutral,moderate,mild,0.67299837,0.15205413,0.44314775,33,False,True,False,False,Medium
+That one's amazing.,happiness,happiness,admiration,admiration,moderate,mild,0.7509377,0.19775659,0.5116844,19,True,True,False,False,High
+When I finally got into the momentum,neutral,surprise,neutral,neutral,mild,mild,0.2807226,0.21196628,0.34917092,36,False,True,True,False,Very Low
+"and when I finally got what they were asking for,",neutral,surprise,neutral,neutral,mild,mild,0.569529,0.27754724,0.50334424,49,False,True,True,False,Medium
+it was kind of too late.,neutral,sadness,neutral,neutral,mild,neutral,0.39710948,0.2605372,0.33914086,24,False,True,False,False,Very Low
+"Well done, Veronica!",neutral,happiness,neutral,approval,moderate,mild,0.65819865,0.15022734,0.41858009,20,False,False,False,False,Low
+"Between me and Valerie, it's really complicated",neutral,surprise,neutral,confusion,mild,mild,0.6961224,0.30918947,0.499163,47,False,False,True,False,High
+"It's a competition, but we're still connected, right?",neutral,happiness,neutral,neutral,neutral,mild,0.60001177,0.20429529,0.45714185,53,False,True,False,False,Medium
+"So I want her to do good, but I want to do better.",neutral,happiness,neutral,gratitude,moderate,mild,0.7428948,0.10658083,0.45684004,50,False,False,False,False,Medium
+"Nice, that was a nice shape there.",neutral,happiness,neutral,admiration,mild,mild,0.76787233,0.20606485,0.55936855,34,False,False,True,False,High
+That was amazing.,happiness,happiness,admiration,admiration,moderate,mild,0.73310834,0.16614808,0.4937932,17,True,True,False,False,High
+It's hard to tell if you're smiling or not.,neutral,disgust,neutral,neutral,mild,mild,0.3653985,0.28734404,0.38192835,43,False,True,True,False,Very Low
+"The pose is good,",neutral,happiness,neutral,admiration,mild,mild,0.75317854,0.21092764,0.5433684,17,False,False,True,False,High
+I just have to pay more attention up here.,neutral,happiness,neutral,neutral,neutral,moderate,0.33965942,0.24375163,0.34858572,42,False,True,False,False,Very Low
+To loosen up.,neutral,anger,neutral,neutral,neutral,neutral,0.26093122,0.59717923,0.5055359,13,False,True,True,False,Medium
+I really enjoyed the photo shoot.,neutral,happiness,neutral,gratitude,moderate,mild,0.64910394,0.1072915,0.43107083,33,False,False,False,False,Low
+"Last frame, you are done.",neutral,neutral,neutral,neutral,mild,neutral,0.3621351,0.473283,0.5001899,25,True,True,False,False,Medium
+Good job.,neutral,happiness,neutral,approval,mild,mild,0.68633336,0.17580625,0.4959346,9,False,False,True,False,Medium
+Cindy!,neutral,surprise,neutral,neutral,neutral,neutral,0.32699043,0.21425429,0.33564484,6,False,True,True,False,Very Low
+I don't have much experience of taking photo shoots.,neutral,sadness,neutral,neutral,neutral,neutral,0.44253442,0.41640744,0.4129062,52,False,True,True,False,Medium
+"I have a lot of thoughts,",neutral,surprise,neutral,neutral,mild,mild,0.60786206,0.21505177,0.44904482,25,False,True,True,False,Medium
+I have many plans for different kinds of posing.,neutral,happiness,neutral,neutral,mild,mild,0.3626688,0.41658628,0.4027358,48,False,True,True,False,Low
+A little bit more energy in your face.,neutral,happiness,neutral,neutral,neutral,moderate,0.38559845,0.15964673,0.4116057,38,False,True,False,False,Very Low
+"Once I step on the set, all the plans just deleted.",neutral,neutral,neutral,neutral,moderate,neutral,0.4541847,0.62964743,0.6518241,51,True,True,False,False,High
+"Right now, your outfit, everything is so dramatic,",neutral,happiness,neutral,admiration,mild,moderate,0.5746233,0.19623438,0.42408648,50,False,False,False,False,Low
+but your face is still too sweet.,neutral,happiness,neutral,admiration,mild,mild,0.28400543,0.13600546,0.43648782,33,False,False,True,False,Very Low
+"I need more fierce, okay?",happiness,fear,desire,neutral,moderate,moderate,0.53320986,0.13325179,0.45077115,25,False,False,True,False,Low
+"Well, give me a fierce, give me like you're angry.",happiness,anger,neutral,annoyance,neutral,moderate,0.41626963,0.12653916,0.40223494,50,False,False,False,False,Very Low
+That's angry?,anger,anger,confusion,annoyance,mild,moderate,0.4614865,0.15966849,0.39728826,13,True,False,False,False,Very Low
+More angry.,anger,anger,anger,annoyance,mild,moderate,0.47253466,0.14575404,0.39901507,11,True,False,False,False,Very Low
+I thought I can be fierce.,happiness,fear,neutral,neutral,neutral,moderate,0.58043325,0.1030548,0.4698875,26,False,True,False,False,Low
+Show me happy.,neutral,happiness,neutral,gratitude,neutral,mild,0.7027624,0.16914806,0.42199466,14,False,False,False,False,Medium
+Happy.,neutral,happiness,neutral,approval,neutral,mild,0.7448554,0.11863092,0.49830472,6,False,False,False,False,Medium
+Angry.,anger,fear,anger,neutral,mild,moderate,0.35644856,0.16108283,0.3822007,6,False,False,False,False,Very Low
+Your face did not change from serious to angry at all.,anger,disgust,confusion,disapproval,mild,moderate,0.43553695,0.22415431,0.40989614,54,False,False,False,False,Low
+"Obviously, it's not working.",neutral,disgust,neutral,neutral,moderate,neutral,0.38003203,0.38660568,0.4874206,28,False,True,False,False,Medium
+Let's do some other emotions.,neutral,happiness,neutral,neutral,mild,mild,0.5641761,0.23145902,0.44932634,29,False,True,True,False,Medium
+"What are you doing, Cindy?",neutral,surprise,neutral,confusion,mild,mild,0.6613786,0.442092,0.70554805,26,False,False,True,False,Very High
+"Sorry, not you.",neutral,sadness,neutral,neutral,mild,neutral,0.4714091,0.2669375,0.36653167,15,False,True,False,False,Low
+This is so awkward and embarrassing.,neutral,fear,neutral,neutral,moderate,moderate,0.6345377,0.09069387,0.39503393,36,False,True,True,False,Low
+I put that embarrassing thing aside,neutral,fear,neutral,neutral,mild,moderate,0.6350469,0.084918186,0.40722102,35,False,True,False,False,Low
+and then focus on my photo shoot.,neutral,happiness,neutral,neutral,neutral,neutral,0.30788898,0.3757337,0.36090937,33,False,True,True,False,Very Low
+Yes.,neutral,neutral,neutral,neutral,mild,neutral,0.6434342,0.79819685,0.80404615,4,True,True,False,False,Very High
+"Change, good.",neutral,happiness,neutral,neutral,mild,mild,0.6345748,0.19667841,0.44066685,13,False,True,True,False,Medium
+Nice.,neutral,neutral,neutral,neutral,mild,neutral,0.60134053,0.7781905,0.78625023,5,True,True,False,False,Very High
+Let's go.,neutral,neutral,neutral,neutral,mild,neutral,0.38785955,0.56013805,0.6110187,9,True,True,False,False,High
+you're going to have to stride a lot more.,neutral,fear,neutral,neutral,neutral,moderate,0.32230735,0.37238613,0.39703763,42,False,True,False,False,Low
+Lean towards the camera a little bit and relax your neck.,neutral,happiness,neutral,neutral,neutral,moderate,0.2996365,0.2510575,0.36545354,57,False,True,False,False,Very Low
+"and the judges already have to help me a lot,",neutral,happiness,neutral,optimism,moderate,mild,0.6653073,0.14059143,0.38531634,45,False,False,False,False,Low
+so I feel pressured.,neutral,fear,neutral,neutral,moderate,moderate,0.6504084,0.17293118,0.3734908,20,False,True,True,False,Low
+I liked your attitude on the catwalk.,neutral,happiness,neutral,gratitude,mild,mild,0.74184895,0.110278815,0.45268783,37,False,False,True,False,Medium
+"Where's that attitude today, girlfriend?",neutral,surprise,neutral,curiosity,mild,mild,0.47861913,0.54061174,0.75323474,40,False,False,True,False,High
+It's so hard.,neutral,sadness,neutral,neutral,moderate,neutral,0.24126005,0.41625232,0.39686644,13,False,True,False,False,Very Low
+I have no idea what I'm doing.,neutral,surprise,neutral,confusion,moderate,mild,0.72937346,0.49704462,0.519489,30,False,False,False,False,High
+So let's do more where it's like...,neutral,happiness,neutral,neutral,mild,mild,0.3996088,0.41609833,0.46942675,35,False,True,True,False,Medium
+"Come on, I need this shot.",neutral,fear,neutral,neutral,moderate,neutral,0.40948868,0.25489956,0.39419913,26,False,True,False,False,Very Low
+"When everything comes together, Maureen,",neutral,neutral,neutral,neutral,mild,neutral,0.39050594,0.623425,0.5313513,40,True,True,False,False,High
+you look spectacular.,neutral,happiness,neutral,admiration,moderate,mild,0.70760465,0.25342235,0.5283545,21,False,False,False,False,High
+"Damn, girl.",neutral,anger,neutral,neutral,mild,moderate,0.3637333,0.14617296,0.3852362,11,False,True,False,False,Very Low
+"Jump off the bridge, please.",neutral,neutral,neutral,neutral,moderate,neutral,0.33142108,0.56784827,0.5981323,28,True,True,False,False,High
+So I come in with too much energy.,neutral,fear,neutral,neutral,mild,neutral,0.24746586,0.33408296,0.36614418,34,False,True,False,False,Very Low
+A lot of them are booty shots.,neutral,anger,neutral,neutral,neutral,moderate,0.33550587,0.24304262,0.37032068,30,False,True,False,False,Very Low
+I don't know.,neutral,surprise,neutral,confusion,mild,mild,0.7506626,0.5442393,0.585649,13,False,False,True,False,Very High
+I don't know.,neutral,surprise,neutral,confusion,moderate,mild,0.7506626,0.5442393,0.585649,13,False,False,False,False,Very High
+"That's an impression for sure,",neutral,happiness,neutral,admiration,neutral,mild,0.62693906,0.1662091,0.56724733,30,False,False,False,False,Medium
+"but good impression, bad impression.",neutral,sadness,neutral,neutral,mild,moderate,0.33039272,0.2088794,0.34205157,36,False,True,False,False,Very Low
+At least I followed the brief.,neutral,neutral,neutral,neutral,mild,neutral,0.56837964,0.7826143,0.7780465,30,True,True,False,False,Very High
+A little bit more energy.,neutral,happiness,neutral,neutral,neutral,mild,0.37264654,0.29831928,0.39789185,25,False,True,False,False,Low
+She's not even trying at all.,neutral,disgust,neutral,neutral,moderate,neutral,0.4051605,0.294145,0.35272804,29,False,True,False,False,Very Low
+It's a competition.,neutral,happiness,neutral,approval,neutral,mild,0.67379415,0.1662517,0.4964121,19,False,False,False,False,Medium
+Your nerves are like...,neutral,fear,neutral,neutral,mild,moderate,0.40785518,0.20391504,0.4252878,23,False,True,False,False,Very Low
+We've got that one.,neutral,neutral,neutral,neutral,mild,neutral,0.43293685,0.5360547,0.57004786,19,True,True,False,False,High
+You okay honey?,neutral,surprise,neutral,neutral,moderate,mild,0.48402074,0.34262663,0.5789151,15,False,True,False,False,High
+"This is like my first time, so",neutral,surprise,neutral,neutral,mild,neutral,0.36300492,0.36457425,0.39423934,30,False,True,False,False,Low
+"I just feel like, I don't know.",neutral,surprise,neutral,confusion,moderate,mild,0.75700676,0.516486,0.5735621,31,False,False,False,False,Very High
+This is a competition.,neutral,happiness,neutral,neutral,neutral,mild,0.6124409,0.20704661,0.45968714,22,False,True,False,False,Medium
+We're supposed not to break down,neutral,sadness,neutral,neutral,moderate,neutral,0.26540875,0.44217858,0.43204436,32,False,True,False,False,Low
+"the very first time, right?",neutral,surprise,neutral,neutral,mild,mild,0.6033401,0.28834546,0.57154083,27,False,True,True,False,High
+"If Layla cannot take in the first week,",neutral,disgust,neutral,neutral,neutral,neutral,0.22332498,0.6251436,0.5587962,39,False,True,True,False,High
+how about the next week and the next week?,neutral,surprise,neutral,confusion,mild,mild,0.667414,0.40049845,0.71360064,42,False,False,True,False,Very High
+"Hey, do you not want to be here?",neutral,anger,neutral,curiosity,mild,mild,0.26993513,0.34722134,0.5897196,32,False,False,True,False,Low
+Layla? What's going on?,neutral,surprise,neutral,confusion,mild,mild,0.733815,0.48694503,0.6411985,23,False,False,True,False,Very High
+It's just this thing that comes over.,neutral,surprise,neutral,neutral,moderate,neutral,0.43546224,0.54010993,0.52203465,37,False,True,False,False,High
+Do you want,neutral,happiness,neutral,curiosity,mild,mild,0.6831298,0.72204655,0.7448234,11,False,False,True,False,Very High
+to be here?,neutral,surprise,neutral,curiosity,mild,mild,0.5473639,0.38926372,0.68108517,11,False,False,True,False,High
+"Let me hear you say, I want to be here.",neutral,happiness,neutral,neutral,mild,mild,0.4336489,0.30799395,0.3845007,39,False,True,True,False,Low
+"Please, that's what I want to hear you say.",neutral,neutral,neutral,neutral,moderate,neutral,0.29617998,0.52619416,0.45610777,43,True,True,False,False,Medium
+I don't know what to say.,neutral,surprise,neutral,confusion,moderate,mild,0.7497149,0.550115,0.60728663,25,False,False,False,False,Very High
+You can't answer me?,neutral,anger,neutral,neutral,moderate,moderate,0.41588557,0.21082526,0.37880343,20,False,True,True,False,Very Low
+Do you want to try again?,neutral,happiness,neutral,curiosity,neutral,mild,0.70948064,0.75728923,0.754368,25,False,False,False,False,Very High
+No?,neutral,surprise,neutral,confusion,mild,mild,0.74553955,0.50716436,0.61183125,3,False,False,True,False,Very High
+I'm sorry to hear that.,neutral,sadness,neutral,neutral,neutral,neutral,0.57011396,0.20631173,0.29940823,23,False,True,True,False,Low
+"Ready, one, two, three, go.",neutral,neutral,neutral,neutral,mild,neutral,0.49941894,0.70322883,0.74240655,27,True,True,False,False,Very High
+Wow.,surprise,surprise,surprise,confusion,mild,mild,0.6053934,0.25798255,0.42693403,4,True,False,True,False,Medium
+That was really cool.,neutral,happiness,neutral,admiration,moderate,mild,0.76481146,0.1615223,0.5159286,21,False,False,False,False,High
+Whoa.,neutral,surprise,neutral,neutral,mild,mild,0.59216726,0.35464314,0.53811765,5,False,True,True,False,High
+I really forget anything about me.,neutral,sadness,neutral,neutral,mild,moderate,0.48519427,0.15096489,0.40436003,34,False,True,False,False,Very Low
+Wait.,neutral,neutral,neutral,neutral,mild,neutral,0.60927296,0.82768154,0.81453186,5,True,True,False,False,Very High
+"where you get to tell a photographer,",neutral,happiness,neutral,neutral,neutral,mild,0.39614263,0.36527482,0.48511052,37,False,True,False,False,Medium
+"When I jump,",neutral,fear,neutral,neutral,neutral,neutral,0.2837319,0.5643115,0.5143976,12,False,True,True,False,Medium
+I need to wait to get the energy,neutral,happiness,neutral,neutral,neutral,neutral,0.3099034,0.3535754,0.4463698,32,False,True,True,False,Low
+"It's awkward, but it's kind of amazing.",happiness,happiness,amusement,admiration,mild,mild,0.7385658,0.1935583,0.51211596,39,True,False,True,False,High
+"three, go.",neutral,neutral,neutral,neutral,mild,neutral,0.6165761,0.82960397,0.8377144,10,True,True,False,False,Very High
+You tell me when I,neutral,surprise,neutral,neutral,mild,mild,0.6197346,0.33764,0.46372873,18,False,True,True,False,High
+go. You tell me.,neutral,neutral,neutral,neutral,mild,neutral,0.41875696,0.7372748,0.695248,16,True,True,False,False,Very High
+It got a bit tense when two were shooting.,neutral,anger,neutral,neutral,moderate,moderate,0.36844152,0.17273635,0.4421094,42,False,True,True,False,Very Low
+Every professional knows that,neutral,surprise,neutral,neutral,neutral,mild,0.365622,0.44247717,0.44443837,29,False,True,False,False,Medium
+are a bit too firm over and over,neutral,neutral,neutral,neutral,mild,neutral,0.20805281,0.620459,0.56139565,32,True,True,False,False,High
+"again with someone,",neutral,neutral,neutral,neutral,mild,neutral,0.6677345,0.85509163,0.81984365,19,True,True,False,False,Very High
+it might look rude.,neutral,happiness,neutral,neutral,moderate,mild,0.42469278,0.2382645,0.4827877,19,False,True,False,False,Low
+I feel like you have the same issue as Cindy.,neutral,happiness,neutral,neutral,neutral,mild,0.46519607,0.13974525,0.47793326,45,False,True,False,False,Low
+"You both have gorgeous, sweet faces.",neutral,happiness,neutral,admiration,mild,mild,0.75698805,0.23499502,0.51334375,36,False,False,True,False,High
+I need some more fierceness.,happiness,fear,desire,optimism,moderate,moderate,0.370595,0.099758446,0.50176543,28,False,False,True,False,Very Low
+This competition for model,neutral,happiness,neutral,neutral,neutral,mild,0.6866499,0.17300376,0.51292884,26,False,True,False,False,Medium
+is not for,neutral,disgust,neutral,neutral,neutral,neutral,0.26644963,0.6032688,0.6626973,10,False,True,True,False,High
+"hot girl, not for beautiful thing.",neutral,disgust,neutral,disapproval,mild,moderate,0.504286,0.27428788,0.32804105,34,False,False,False,False,Low
+because you cannot do it.,neutral,disgust,neutral,neutral,neutral,neutral,0.39110446,0.34303325,0.41883832,25,False,True,True,False,Low
+I feel so much better,neutral,happiness,neutral,optimism,moderate,mild,0.6997225,0.12023106,0.43773043,21,False,False,False,False,Medium
+and I want to continue this.,neutral,happiness,neutral,neutral,moderate,mild,0.5834394,0.19306314,0.4198809,28,False,True,False,False,Low
+I want to continue,neutral,happiness,neutral,neutral,moderate,mild,0.6247381,0.1702554,0.46744478,18,False,True,False,False,Medium
+running in this competition.,neutral,happiness,neutral,neutral,moderate,neutral,0.48773217,0.3580201,0.39632303,28,False,True,False,False,Low
+So I heard you're going to give it another go.,neutral,anger,neutral,neutral,moderate,neutral,0.2474095,0.46104166,0.38794726,46,False,True,False,False,Low
+I'm so proud of you.,neutral,happiness,neutral,gratitude,moderate,mild,0.68568844,0.18235035,0.41009244,20,False,False,False,False,Medium
+Don't be sorry if you don't do it again.,neutral,sadness,neutral,neutral,neutral,moderate,0.37739098,0.25144428,0.3006376,40,False,True,False,False,Very Low
+Let's go. You've got three minutes.,neutral,neutral,neutral,neutral,moderate,neutral,0.3819448,0.587688,0.6246153,35,True,True,False,False,High
+"One, two, three, go.",neutral,neutral,neutral,neutral,mild,neutral,0.5444164,0.7911157,0.8046041,20,True,True,False,False,Very High
+Energy is amazing.,happiness,happiness,excitement,admiration,moderate,mild,0.758363,0.17086259,0.5103363,18,True,False,False,False,High
+"You don't have to do much, girl.",neutral,disgust,neutral,neutral,neutral,neutral,0.4116175,0.3282549,0.39987224,32,False,True,True,False,Low
+You look like you're jumping already,neutral,happiness,neutral,neutral,mild,mild,0.35394487,0.17831722,0.52019143,36,False,True,True,False,Very Low
+because you're so tall and skinny.,neutral,disgust,neutral,neutral,mild,mild,0.35632712,0.15365095,0.42133203,34,False,True,True,False,Very Low
+I feel my mind is clearer now.,neutral,surprise,neutral,confusion,moderate,mild,0.6521354,0.2401792,0.41006848,30,False,False,False,False,Medium
+Turn your face a little bit this way.,neutral,anger,neutral,neutral,neutral,moderate,0.34825042,0.32545123,0.3846701,37,False,True,False,False,Very Low
+"If I'm running for the competition still,",neutral,happiness,neutral,neutral,moderate,neutral,0.44767207,0.32039967,0.34320316,41,False,True,False,False,Low
+I would try my best,neutral,happiness,neutral,optimism,moderate,mild,0.57640815,0.1995681,0.3978075,19,False,False,False,False,Low
+and continue to run,neutral,neutral,neutral,neutral,moderate,neutral,0.45893687,0.6802599,0.6555906,19,True,True,False,False,Very High
+for this competition.,neutral,happiness,neutral,neutral,moderate,mild,0.55787814,0.2855583,0.3866683,21,False,True,False,False,Low
+Time's up. Good job.,neutral,happiness,neutral,neutral,mild,mild,0.5744017,0.2325243,0.41669106,20,False,True,True,False,Low
+to your very first elimination.,neutral,sadness,neutral,neutral,moderate,moderate,0.32307023,0.27903184,0.38007843,31,False,True,True,False,Very Low
+To say this week has been eventful,neutral,happiness,neutral,neutral,neutral,neutral,0.36228582,0.50722337,0.42650077,34,False,True,True,False,Medium
+would be an understatement.,neutral,happiness,neutral,admiration,neutral,mild,0.6096021,0.24722339,0.54177654,27,False,False,False,False,High
+who's moving on,neutral,neutral,neutral,neutral,mild,neutral,0.39003253,0.7278871,0.6264702,15,True,True,False,False,High
+"and who's moving out,",neutral,neutral,neutral,neutral,mild,neutral,0.2878039,0.70075274,0.57783264,21,True,True,False,False,High
+"First up, the ever-radiant",neutral,surprise,neutral,neutral,mild,neutral,0.26157787,0.59887886,0.5591034,26,False,True,False,False,High
+"model, actress, and Miss Universe",neutral,happiness,neutral,admiration,mild,mild,0.6620399,0.19009759,0.46987516,33,False,False,True,False,Medium
+"2015, Pia Wurtzbach.",neutral,neutral,neutral,neutral,mild,neutral,0.6667855,0.83713144,0.83214265,20,True,True,False,False,Very High
+"for your very first photo challenge,",neutral,happiness,neutral,neutral,neutral,mild,0.5974652,0.24481444,0.40026084,36,False,True,False,False,Low
+"And let's not forget your model mentor,",neutral,sadness,neutral,neutral,neutral,moderate,0.25415692,0.21930684,0.41726413,39,False,True,False,False,Very Low
+before us was hand-picked from,neutral,neutral,neutral,neutral,mild,neutral,0.4410283,0.7508788,0.71562284,30,True,True,False,False,Very High
+all across Asia.,neutral,neutral,neutral,neutral,mild,neutral,0.6128234,0.8092989,0.78750926,16,True,True,False,False,Very High
+You're here because we believe that each and,neutral,surprise,neutral,neutral,moderate,neutral,0.34776127,0.54238963,0.53262204,44,False,True,False,False,High
+every single one of you has a very good chance,neutral,happiness,neutral,admiration,moderate,mild,0.75266325,0.16571954,0.50305957,46,False,False,False,False,High
+of winning this.,neutral,happiness,neutral,approval,moderate,mild,0.6948119,0.13892344,0.45162532,16,False,False,False,False,Medium
+"And on that note, let's get to your prizes.",neutral,happiness,neutral,neutral,moderate,neutral,0.42357987,0.40562135,0.43528187,43,False,True,False,False,Medium
+The winner of Asia's Next Top Model,happiness,happiness,excitement,admiration,intense,mild,0.7259817,0.14938395,0.5026508,35,True,False,False,False,Medium
+will be driving home a brand-new,neutral,neutral,neutral,neutral,moderate,neutral,0.35032606,0.5222293,0.5094517,32,True,True,False,False,Medium
+Subaru Impreza.,neutral,neutral,neutral,neutral,moderate,neutral,0.61288625,0.7816097,0.8065623,15,True,True,False,False,Very High
+She will feature in a fashion spread and rock,neutral,happiness,neutral,admiration,moderate,mild,0.6723444,0.25847372,0.50615925,45,False,False,False,False,High
+the cover of Nylon Singapore.,neutral,neutral,neutral,neutral,moderate,neutral,0.62517846,0.81827384,0.8172189,29,True,True,False,False,Very High
+And she will head to Europe for a chance,neutral,happiness,neutral,neutral,moderate,neutral,0.36481607,0.35442987,0.41406414,40,False,True,False,False,Low
+to be represented by one of the world's biggest,neutral,happiness,neutral,admiration,moderate,mild,0.76278645,0.16747823,0.46421313,47,False,False,False,False,High
+"modeling agencies, Storm Model",neutral,neutral,neutral,neutral,moderate,neutral,0.5003827,0.71859354,0.68268657,30,True,True,False,False,Very High
+"Management, joining the likes of Kate Moss",neutral,happiness,neutral,admiration,moderate,mild,0.7053469,0.22555736,0.55069745,42,False,False,False,False,High
+and Cara Delevingne.,neutral,neutral,neutral,neutral,moderate,neutral,0.6572524,0.86407334,0.85056794,20,True,True,False,False,Very High
+"Now, this season, we will be combining your",neutral,happiness,neutral,neutral,neutral,mild,0.54730576,0.2980089,0.42766264,43,False,True,False,False,Medium
+challenge scores to your photoshoot,neutral,happiness,neutral,neutral,neutral,mild,0.57669455,0.2497832,0.39610657,35,False,True,False,False,Low
+scores in order to determine who stays,neutral,happiness,neutral,neutral,neutral,neutral,0.40204406,0.5470302,0.44881687,38,False,True,True,False,High
+"Are you ready, ladies?",neutral,happiness,neutral,curiosity,mild,mild,0.6981412,0.56408286,0.7016967,22,False,False,True,False,Very High
+Let's get started.,neutral,happiness,neutral,neutral,neutral,neutral,0.35769287,0.46429166,0.4905721,18,False,True,True,False,Medium
+"Can we have Alicia, please?",neutral,happiness,neutral,curiosity,neutral,mild,0.52471536,0.36516243,0.55084527,27,False,False,False,False,High
+"Well, let's take a look at your shot.",neutral,happiness,neutral,neutral,neutral,mild,0.29518968,0.33736727,0.3515404,37,False,True,False,False,Very Low
+with so much energy,neutral,happiness,neutral,admiration,moderate,mild,0.69499964,0.17016219,0.5160173,19,False,False,False,False,Medium
+that at times you seem,neutral,surprise,neutral,neutral,neutral,mild,0.39510623,0.4429256,0.43870848,22,False,True,False,False,Medium
+completely out of control.,neutral,fear,neutral,neutral,moderate,neutral,0.35706803,0.39133415,0.47005758,26,False,True,False,False,Low
+I love your look.,neutral,happiness,neutral,gratitude,moderate,mild,0.5769091,0.13288926,0.36347154,17,False,False,False,False,Low
+You have a masculinity about you,neutral,disgust,neutral,neutral,neutral,mild,0.25275052,0.13444848,0.49961418,32,False,True,False,False,Very Low
+which can be your strength,neutral,happiness,neutral,admiration,mild,mild,0.7406433,0.14275229,0.5381983,26,False,False,True,False,High
+"Angelica, please.",neutral,happiness,neutral,neutral,neutral,neutral,0.36723563,0.5268701,0.56416017,17,False,True,True,False,High
+Your face is just,neutral,surprise,neutral,neutral,neutral,mild,0.48209965,0.40054637,0.47847483,17,False,True,False,False,Medium
+a bit dead. It's not really smiling.,neutral,disgust,neutral,disapproval,moderate,moderate,0.3597657,0.22256306,0.37174967,36,False,False,True,False,Very Low
+It's not really high fashion.,neutral,disgust,neutral,neutral,moderate,neutral,0.4116354,0.32218558,0.41371015,29,False,True,False,False,Low
+You let your nerves get the better of you.,neutral,happiness,neutral,optimism,moderate,moderate,0.61344975,0.12241534,0.40750247,42,False,False,True,False,Low
+I feel like this was a lucky,neutral,happiness,neutral,approval,mild,mild,0.64889365,0.10307967,0.39447117,28,False,False,True,False,Low
+shot for you.,neutral,anger,neutral,neutral,neutral,moderate,0.29151013,0.19338179,0.4173923,13,False,True,False,False,Very Low
+I love the shot from the head down.,neutral,happiness,neutral,gratitude,moderate,moderate,0.3746763,0.10960298,0.39393345,35,False,False,True,False,Very Low
+Your eyes are,neutral,happiness,neutral,neutral,neutral,mild,0.28472245,0.49179557,0.4755334,13,False,True,False,False,Medium
+almost dead. You're still so,neutral,sadness,neutral,neutral,moderate,moderate,0.45008492,0.22504573,0.32709256,28,False,True,True,False,Very Low
+young and that's why you're not,neutral,sadness,neutral,neutral,neutral,neutral,0.277253,0.49062103,0.55038893,31,False,True,True,False,Medium
+emotions other than your typical,neutral,happiness,neutral,neutral,neutral,mild,0.58158743,0.18042678,0.6052539,32,False,True,False,False,Medium
+"sweet, your safe zone. Heidi.",neutral,happiness,neutral,approval,neutral,mild,0.70430607,0.13959259,0.45201075,29,False,False,False,False,Medium
+"Looking at you right now, you look so sweet.",neutral,happiness,neutral,admiration,mild,mild,0.7704757,0.22406979,0.5592975,44,False,False,True,False,High
+And then I look at this one and you just have,neutral,happiness,neutral,curiosity,mild,mild,0.2970024,0.38249373,0.5203957,45,False,False,True,False,Low
+so much emotion,neutral,happiness,neutral,admiration,moderate,mild,0.7250755,0.16743965,0.52992123,15,False,False,False,False,High
+"If you keep this up, you could be a dark horse in the",neutral,fear,neutral,neutral,moderate,moderate,0.28396934,0.37998337,0.37108493,53,False,True,True,False,Very Low
+competition. Thank you so much.,neutral,happiness,neutral,gratitude,mild,mild,0.6536468,0.21178827,0.42172077,31,False,False,True,False,Medium
+"Well done, Heidi. Next, can we have Clara, please?",neutral,happiness,neutral,neutral,mild,neutral,0.45523548,0.39154696,0.41730535,50,False,True,False,False,Medium
+"You're daddy's little girl,",neutral,disgust,neutral,neutral,neutral,mild,0.33821416,0.23049517,0.35194194,27,False,True,False,False,Very Low
+aren't you?,neutral,surprise,neutral,curiosity,neutral,mild,0.5210489,0.49835977,0.78317314,11,False,False,False,False,Very High
+everything you want. You're spoiled,neutral,disgust,neutral,neutral,moderate,moderate,0.36716712,0.17639787,0.38787383,35,False,True,True,False,Very Low
+but you're cheeky about it.,neutral,disgust,neutral,neutral,mild,moderate,0.35346314,0.14104392,0.38365924,27,False,True,False,False,Very Low
+And that kind of works in this picture.,neutral,happiness,neutral,neutral,mild,mild,0.34262374,0.2800914,0.5257808,39,False,True,True,False,Low
+You're running away,neutral,fear,neutral,neutral,neutral,neutral,0.2611397,0.44416153,0.40402928,19,False,True,True,False,Low
+You're kind of acting coy but you're leading us on.,neutral,disgust,neutral,admiration,mild,mild,0.26627693,0.15213077,0.39904708,51,False,False,True,False,Very Low
+I really like it.,neutral,happiness,neutral,joy,moderate,mild,0.75135833,0.109265275,0.49328154,17,False,False,False,False,Medium
+It's very unexpected from the brief,surprise,surprise,surprise,confusion,mild,mild,0.68768555,0.33014542,0.44566917,35,True,False,True,False,High
+and I like the unexpected. Dorothy.,surprise,happiness,admiration,neutral,mild,mild,0.4446164,0.09635074,0.46604764,35,False,False,True,False,Very Low
+You're also another sweet,neutral,happiness,neutral,admiration,mild,mild,0.75411385,0.20514761,0.5250788,25,False,False,True,False,High
+face. We need a little bit more attitude,neutral,happiness,neutral,neutral,mild,mild,0.52549374,0.28333625,0.45116368,40,False,True,True,False,Medium
+from you. We need fierce.,happiness,fear,desire,neutral,moderate,moderate,0.51796,0.18940589,0.42429927,25,False,False,True,False,Low
+I feel like I've seen this post,neutral,surprise,neutral,neutral,mild,mild,0.49391088,0.21384664,0.42354825,31,False,True,True,False,Low
+You have a gorgeous face and this,neutral,happiness,neutral,admiration,moderate,mild,0.75486845,0.24835308,0.5526046,33,False,False,False,False,High
+photo doesn't do,neutral,disgust,neutral,neutral,mild,neutral,0.31779677,0.5366733,0.5560685,16,False,True,False,False,High
+justice. Jenica.,neutral,neutral,neutral,neutral,mild,neutral,0.506829,0.7281677,0.7083269,16,True,True,False,False,Very High
+It's not my favorite photo.,neutral,disgust,neutral,neutral,mild,neutral,0.39511877,0.30650523,0.39290717,27,False,True,False,False,Low
+Photographing you was like,neutral,happiness,neutral,neutral,neutral,mild,0.37144938,0.18665604,0.6044272,26,False,True,False,False,Low
+me trying to give you a high five,neutral,happiness,neutral,optimism,mild,moderate,0.43342716,0.16700791,0.43116587,33,False,False,False,False,Very Low
+but then it turns really awkward and we miss.,neutral,sadness,neutral,neutral,mild,moderate,0.38386986,0.19341893,0.37579927,45,False,True,False,False,Very Low
+"We have to work together, alright?",neutral,happiness,neutral,neutral,moderate,mild,0.4600558,0.3244805,0.42407855,34,False,True,False,False,Low
+"Thank you. Can we have Leila, please?",neutral,happiness,neutral,gratitude,mild,mild,0.68481255,0.19171143,0.44031793,37,False,False,True,False,Medium
+"photo, it's stunning",neutral,fear,neutral,excitement,moderate,moderate,0.29342157,0.11418684,0.42349434,20,False,False,True,False,Very Low
+was very arduous.,neutral,disgust,neutral,neutral,mild,moderate,0.3390287,0.27090344,0.33186865,17,False,True,False,False,Very Low
+I just want to shake you right now,neutral,happiness,neutral,neutral,moderate,mild,0.5343215,0.17201743,0.37626383,34,False,True,False,False,Low
+because I don't think you know how good you are.,neutral,disgust,neutral,neutral,moderate,mild,0.33517966,0.22745204,0.4189728,48,False,True,False,False,Very Low
+The biggest,neutral,happiness,neutral,neutral,neutral,mild,0.43410966,0.41556454,0.46368414,11,False,True,False,False,Medium
+critic is yourself.,neutral,neutral,neutral,neutral,mild,neutral,0.2415954,0.5319909,0.43462574,19,True,True,False,False,Low
+standing in your way.,neutral,neutral,neutral,neutral,mild,neutral,0.5413905,0.7530869,0.7189542,21,True,True,False,False,Very High
+"Thank you,",neutral,happiness,neutral,gratitude,mild,mild,0.6251021,0.20964064,0.39963055,10,False,False,True,False,Low
+I love your face. I can imagine,neutral,happiness,neutral,gratitude,moderate,mild,0.5866224,0.13354518,0.36824948,31,False,False,False,False,Low
+doing lots and lots of beauty commercials,neutral,happiness,neutral,admiration,moderate,mild,0.7384016,0.19639215,0.57203215,41,False,False,False,False,High
+with you but I hate that,neutral,disgust,neutral,disapproval,moderate,moderate,0.42379645,0.24025305,0.36812666,24,False,False,True,False,Very Low
+photo. It looks like as if,neutral,surprise,neutral,neutral,moderate,mild,0.49938634,0.33708358,0.5567565,26,False,True,False,False,High
+"you see like an ex-boyfriend and you're going,",neutral,disgust,neutral,disapproval,mild,moderate,0.32929692,0.19632255,0.41619128,46,False,False,False,False,Very Low
+I would have to disagree.,neutral,sadness,neutral,neutral,mild,moderate,0.271886,0.36575848,0.35852906,25,False,True,False,False,Very Low
+I love this photo.,neutral,happiness,neutral,gratitude,moderate,mild,0.5640225,0.1263915,0.3604813,18,False,False,False,False,Very Low
+"for me, I like it.",neutral,happiness,neutral,gratitude,mild,mild,0.7311142,0.132482,0.45232272,18,False,False,True,False,Medium
+The duck face,neutral,neutral,neutral,neutral,mild,neutral,0.2993888,0.6938587,0.62788415,13,True,True,False,False,High
+I feel you have so much,neutral,happiness,neutral,neutral,moderate,mild,0.35311642,0.17216195,0.46440944,23,False,True,False,False,Very Low
+potential. I see you as,neutral,happiness,neutral,neutral,moderate,mild,0.6299975,0.22123927,0.5161067,23,False,True,False,False,Medium
+"the quirky, awkward,",neutral,happiness,neutral,admiration,mild,mild,0.62540865,0.20071965,0.5302182,20,False,False,True,False,Medium
+weird model but that,neutral,surprise,neutral,neutral,mild,mild,0.5953257,0.34663838,0.50486314,20,False,True,True,False,High
+could work for you.,neutral,happiness,neutral,neutral,moderate,mild,0.55705386,0.23797315,0.4437075,19,False,True,False,False,Low
+But you definitely need to be aware.,neutral,happiness,neutral,neutral,mild,mild,0.336115,0.299702,0.39419046,36,False,True,True,False,Very Low
+"When I first saw you,",neutral,surprise,neutral,neutral,mild,neutral,0.4510978,0.4783102,0.45969176,21,False,True,False,False,High
+you stood out to me.,neutral,anger,neutral,annoyance,mild,moderate,0.34654847,0.15082265,0.47053704,20,False,False,False,False,Very Low
+And then your catwalk was amazing,happiness,happiness,admiration,admiration,moderate,mild,0.7530827,0.18093836,0.50250983,33,True,True,False,False,High
+and so I had crazy,neutral,anger,neutral,annoyance,neutral,moderate,0.4210095,0.13579202,0.42652786,18,False,False,False,False,Very Low
+it was really disappointing.,neutral,sadness,neutral,neutral,intense,neutral,0.58450216,0.18891805,0.30837294,28,False,True,False,False,Low
+Your hands were really out of control.,neutral,fear,neutral,neutral,moderate,moderate,0.33465153,0.16738899,0.46652114,38,False,True,True,False,Very Low
+It's hard to get a good,neutral,happiness,neutral,neutral,neutral,mild,0.52727765,0.14679271,0.42771995,23,False,True,False,False,Low
+shot of your face. I knew I could have done,neutral,sadness,neutral,annoyance,neutral,moderate,0.27886352,0.09967807,0.4755082,43,False,False,False,False,Very Low
+better. I knew I could have,neutral,happiness,neutral,neutral,neutral,mild,0.4982374,0.17746322,0.42098814,27,False,True,False,False,Low
+jumped better.,neutral,happiness,neutral,neutral,neutral,mild,0.52515984,0.14845936,0.425038,14,False,True,False,False,Low
+You cannot make one little,neutral,sadness,neutral,neutral,moderate,neutral,0.30388865,0.48381758,0.50353324,26,False,True,False,False,Medium
+mistake make you crash,neutral,sadness,neutral,disapproval,moderate,moderate,0.33086938,0.17342943,0.4157267,22,False,False,True,False,Very Low
+down to the very bottom on the first,neutral,neutral,neutral,neutral,moderate,neutral,0.5258252,0.82758504,0.79240125,36,True,True,False,False,Very High
+week. Okay?,neutral,surprise,neutral,neutral,neutral,neutral,0.35547984,0.61645746,0.5678003,11,False,True,True,False,High
+I want to say apologize,neutral,sadness,neutral,gratitude,mild,moderate,0.42171094,0.085558884,0.38634938,23,False,False,False,False,Very Low
+about the shoot yesterday.,neutral,disgust,neutral,neutral,mild,neutral,0.34235227,0.33613527,0.33333963,26,False,True,False,False,Very Low
+I really,neutral,neutral,neutral,neutral,mild,neutral,0.37758476,0.5631081,0.5521422,8,True,True,False,False,High
+nervous so I want,fear,fear,nervousness,neutral,mild,moderate,0.61562455,0.10665791,0.34638557,17,True,False,False,False,Low
+to say sorry for that.,neutral,sadness,neutral,neutral,mild,neutral,0.48335886,0.25010347,0.3498715,22,False,True,False,False,Low
+I forgive you.,neutral,sadness,neutral,neutral,neutral,moderate,0.3748526,0.08339372,0.3748284,14,False,True,False,False,Very Low
+"Look, there is a language",neutral,surprise,neutral,neutral,neutral,mild,0.48383212,0.46064728,0.45814022,25,False,True,False,False,High
+barrier here. I can accept that your,neutral,happiness,neutral,neutral,neutral,neutral,0.4267313,0.3310544,0.37469676,36,False,True,True,False,Low
+intentions were good.,neutral,happiness,neutral,admiration,neutral,mild,0.7004628,0.17842773,0.50872743,21,False,False,False,False,High
+Do you know what resting,neutral,surprise,neutral,curiosity,mild,mild,0.56210303,0.48647267,0.7770691,24,False,False,True,False,Very High
+bitch face is?,neutral,surprise,neutral,confusion,mild,mild,0.5735258,0.39808303,0.5784687,14,False,False,True,False,High
+the most amazing resting bitch face,happiness,happiness,amusement,admiration,moderate,mild,0.7592222,0.18995842,0.5398816,35,True,False,False,False,High
+I've ever seen. And that translated,neutral,surprise,neutral,neutral,moderate,neutral,0.47181922,0.43158498,0.44416884,35,False,True,False,False,Medium
+amazingly well into this photograph.,happiness,happiness,admiration,admiration,moderate,mild,0.75482726,0.19798067,0.5022271,36,True,True,False,False,High
+"you're better at photo shoots, right?",neutral,happiness,neutral,admiration,mild,mild,0.7451761,0.13609952,0.53842753,37,False,False,True,False,High
+Yes. You did pretty,neutral,happiness,neutral,admiration,mild,mild,0.58236146,0.18518616,0.5136653,19,False,False,True,False,Medium
+"good on your catwalk, so you've got to nail",neutral,happiness,neutral,neutral,mild,mild,0.6320598,0.15490846,0.4439871,43,False,True,True,False,Low
+this. I hope so.,neutral,happiness,neutral,neutral,mild,neutral,0.424413,0.31651503,0.37277818,16,False,True,False,False,Low
+"Okay, well let's see if you did.",neutral,happiness,neutral,curiosity,neutral,mild,0.46054885,0.39588544,0.5306583,32,False,False,False,False,Medium
+Wow,surprise,surprise,surprise,confusion,moderate,mild,0.6621733,0.2913205,0.46649623,3,True,False,False,False,High
+"Okay, so I'm about to bring you down from that high horse you are standing on because you are the most challenging to work with",neutral,happiness,neutral,neutral,intense,moderate,0.44008407,0.23674123,0.38241524,127,False,True,False,False,Very Low
+"Oh, no",neutral,surprise,neutral,neutral,neutral,neutral,0.4705543,0.28962278,0.41907033,6,False,True,True,False,Low
+I was giving you direction after direction and Joel had to actually come in and physically move your head,neutral,fear,neutral,neutral,moderate,moderate,0.22498633,0.25134182,0.44154975,105,False,True,True,False,Very Low
+"And for our last girl Veronica, all I have to say is Valerie you take a look at that",neutral,happiness,neutral,curiosity,neutral,mild,0.5475297,0.31431034,0.5694235,84,False,False,False,False,High
+You kicked your sister's ass in this shit,neutral,anger,neutral,annoyance,intense,moderate,0.4785703,0.1621647,0.41460973,41,False,False,False,False,Very Low
+This is one of my favorite shots. I'm looking at your face. You're working the outfit. You're playing with it,neutral,happiness,neutral,admiration,intense,mild,0.6847853,0.24570493,0.52140427,109,False,False,False,False,High
+It was a joy to watch you work. You nailed it for me. This is a whole,neutral,happiness,neutral,admiration,moderate,mild,0.703948,0.17026809,0.43792182,69,False,False,False,False,Medium
+"New blank slate for both of you, whatever expectations you've had wipe that all clean and start proving yourself",neutral,happiness,neutral,neutral,moderate,moderate,0.43312195,0.23368737,0.39799124,112,False,True,True,False,Very Low
+"Again, so thank you, Veronica. Thank you. Thank you guys",neutral,happiness,neutral,gratitude,intense,mild,0.6122061,0.21068697,0.38851666,56,False,False,False,False,Low
+"All right, ladies, it's now time for the judges to deliberate and when you come back I'll be announcing who stays and",neutral,fear,neutral,neutral,neutral,moderate,0.33484516,0.39421204,0.3606971,117,False,True,False,False,Low
+Who'll be going home?,neutral,happiness,neutral,curiosity,moderate,mild,0.37045282,0.6255921,0.722037,21,False,False,False,False,High
+14 beautiful girls stand before me,neutral,happiness,neutral,admiration,neutral,mild,0.7380939,0.12173114,0.42952722,34,False,False,False,False,Medium
+But I only have 13 photos in my hands,neutral,neutral,neutral,neutral,mild,neutral,0.31882447,0.6247794,0.5553446,37,True,True,False,False,High
+These photos represent the girls who are still in the running towards becoming Asia's Next Top Model,happiness,happiness,excitement,admiration,moderate,mild,0.7282166,0.19092977,0.4875766,100,True,False,False,False,High
+"Congratulations, Clara. Why are you crying?",sadness,sadness,surprise,annoyance,mild,moderate,0.46920928,0.066348985,0.4565539,43,True,False,False,False,Very Low
+I'm looking for a supermodel. No more spoiled princess from here on out. Do you hear me?,neutral,anger,neutral,neutral,moderate,moderate,0.31676817,0.14603217,0.40450045,88,False,True,True,False,Very Low
+"Congratulations, you're still in the running towards becoming Asia's Next Top Model",happiness,happiness,approval,gratitude,moderate,mild,0.7600213,0.13575669,0.47082996,83,True,False,False,False,Medium
+It turns out you're the twin to beat this week interesting congratulations,neutral,happiness,neutral,admiration,moderate,mild,0.7854503,0.12372707,0.5015264,74,False,False,False,False,High
+Congratulations,neutral,happiness,neutral,gratitude,mild,mild,0.73292065,0.16733436,0.47584745,15,False,False,True,False,Medium
+Congratulations go join your sis,neutral,happiness,neutral,gratitude,mild,mild,0.73799855,0.17691275,0.47535145,32,False,False,True,False,High
+Your biggest challenge is going to be yourself. Thank you Heidi. Congratulation,neutral,happiness,neutral,gratitude,mild,mild,0.69657564,0.1965286,0.4321667,79,False,False,True,False,Medium
+"Congratulations, you're still in the running towards becoming Asia's Next Top Model, Jenica",happiness,happiness,approval,gratitude,moderate,mild,0.76006424,0.13522461,0.47202247,91,True,False,False,False,Medium
+Who's that I like that sass congratulations,neutral,happiness,neutral,gratitude,mild,mild,0.75386053,0.11968861,0.5269228,43,False,False,True,False,High
+Cindy I need a little bit more emotion from you. Thank you so much,neutral,happiness,neutral,gratitude,mild,mild,0.6499141,0.1877603,0.38300824,66,False,False,True,False,Low
+Alicia I look at you and I see strength confidence and fears. You need to soften that find that balance,fear,fear,admiration,neutral,moderate,moderate,0.63461304,0.093570106,0.44996426,103,True,False,True,False,Low
+You had a tough time this week,neutral,happiness,neutral,admiration,neutral,mild,0.5214093,0.17491235,0.46262684,30,False,False,False,False,Low
+I just want to apologize for not being professional and the emotion is really overwhelming for me,neutral,sadness,neutral,disapproval,intense,moderate,0.5918146,0.10632678,0.3929537,97,False,False,False,False,Low
+But you're still here,neutral,neutral,neutral,neutral,mild,neutral,0.5377866,0.810532,0.7490873,21,True,True,False,False,Very High
+And you're gonna fight because girl you're still in the running towards becoming Asia's Next Top Model,happiness,fear,optimism,neutral,moderate,moderate,0.32582727,0.11308352,0.5067214,102,False,False,True,False,Very Low
+Pack your bags and leave,neutral,neutral,neutral,neutral,moderate,neutral,0.45516598,0.7839357,0.739547,24,True,True,False,False,Very High
+It was a struggle to get a good photo out of you and the best photo that we did was still not on,neutral,sadness,neutral,neutral,moderate,moderate,0.52713126,0.10846899,0.39663553,96,False,True,True,False,Very Low
+Par with what we're looking for at this point,neutral,happiness,neutral,curiosity,mild,mild,0.39630234,0.5989082,0.6640274,45,False,False,True,False,High
+So who stays and who's gonna be going home?,neutral,happiness,neutral,curiosity,moderate,mild,0.4317397,0.57148635,0.647823,43,False,False,False,False,High
+It's time to find out,neutral,surprise,neutral,curiosity,moderate,mild,0.4209395,0.39363953,0.5365445,21,False,False,False,False,Medium
+Oh,neutral,surprise,neutral,neutral,mild,neutral,0.6191993,0.22234476,0.38812393,2,False,True,False,False,Low
+I'm really disappointed myself because I wanted to do this for my mom. I,neutral,sadness,neutral,neutral,intense,moderate,0.6489231,0.12836875,0.36342868,72,False,True,False,False,Low
+Really wanted to be the first Filipina to win this,neutral,happiness,neutral,admiration,intense,mild,0.7446874,0.13781479,0.474173,50,False,False,False,False,Medium
+Maybe I stayed in my comfort zone too much because I was thinking that it's just the beginning of the competition,neutral,happiness,neutral,neutral,mild,moderate,0.25589478,0.1659439,0.39450717,113,False,True,False,False,Very Low
+Maybe I should have like just shown it at first. My life motto is never give up,neutral,sadness,neutral,neutral,moderate,moderate,0.5273859,0.24483785,0.39301765,79,False,True,True,False,Low
+"So even though I'm the first girl to get eliminated, I",sadness,sadness,disappointment,neutral,moderate,moderate,0.5291705,0.13991335,0.41170722,54,True,False,True,False,Low
+Won't give up. I'll stand up after this,neutral,fear,neutral,neutral,intense,moderate,0.35922557,0.3670237,0.36171082,39,False,True,False,False,Low
+Next time on Asia's Next Top Model,happiness,happiness,neutral,neutral,neutral,mild,0.60429955,0.2544928,0.45441023,34,True,True,False,False,Medium
+"Yes, we're gossiping. She's beautiful, but she's fake. It cost zero dollar to be real",neutral,happiness,neutral,admiration,moderate,mild,0.6659479,0.27897683,0.46227086,85,False,False,False,False,High

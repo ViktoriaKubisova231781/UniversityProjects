@@ -1,0 +1,37 @@
+# Core packages
+absl-py==2.1.0
+assemblyai==0.37.0
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.6.1
+matplotlib==3.9.4
+seaborn==0.13.2
+openpyxl==3.1.2
+
+# NLP packages
+nltk==3.9.1
+spacy==3.8.3
+textblob==0.19.0
+vaderSentiment==3.3.2
+textstat==0.7.5
+gensim==4.3.3
+sentence-transformers==3.4.1
+contractions==0.1.73
+
+# Deep Learning
+torch==2.6.0
+tensorflow==2.10.1
+
+# Development tools
+ipykernel
+jupyter_client
+jupyter_core
+colorama
+debugpy
+traitlets
+
+# Other dependencies
+typing_extensions
+zipp
+six
+packaging
