@@ -5,7 +5,7 @@ import time
 import os
 
 # Set the API key directly
-GEMINI_API_KEY = "AIzaSyDbX7aF9a692IDbWsTKS_WSVBzH9WJVK6A"
+GEMINI_API_KEY = "#"
 
 # API endpoint
 url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
